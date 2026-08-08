@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Jeff Daily Briefing</title>
     <link>https://jlh28.github.io/JeffDailyBriefing</link>
@@ -11,7 +9,7 @@
     <itunes:summary>Private daily AI-generated briefing covering geopolitics, finance, markets, science, and frontier technology.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
+    <item><title>Jeff Daily Briefing - 2026-08-08</title><description>A private AI-generated daily briefing covering geopolitics, markets, finance, science, frontier technology, artificial intelligence, and strategic implications.</description><pubDate>Sat, 08 Aug 2026 11:35:28 GMT</pubDate><guid isPermaLink="false">Jeff_Daily_Briefing_2026-08-08.mp3</guid><enclosure url="https://jlh28.github.io/JeffDailyBriefing/episodes/Jeff_Daily_Briefing_2026-08-08.mp3" length="13612138" type="audio/mpeg" /><itunes:summary>A private AI-generated daily briefing covering geopolitics, markets, finance, science, frontier technology, artificial intelligence, and strategic implications. Script length: 1753 words.</itunes:summary></item><item>
       <title>Jeff Daily Briefing - 2026-05-27</title>
       <description>A private AI-generated daily briefing covering geopolitics, markets, finance, science, frontier technology, and strategic implications.</description>
       <pubDate>Wed, 27 May 2026 20:27:27 GMT</pubDate>
