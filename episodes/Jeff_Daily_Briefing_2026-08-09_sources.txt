@@ -2,149 +2,144 @@ Jeff Daily Briefing — 2026-08-09
 
 Sources used for this episode:
 
-1. TutorMoments: Do AI tutors know when to help and when to hold back?
-   Source: Hugging Face — Blog
-   Link: https://huggingface.co/blog/allenai/tutormoments
-   Category: ai computing
-
-2. Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation
+1. Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
    Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss
+   Link: https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-3. Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss
-   Category: geopolitics
-
-4. Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news
-   Source: NPR — World
-   Link: https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news
-   Category: geopolitics
-
-5. Why is Pezeshkian urging an end to Iran’s ‘no war, no peace’ status?
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/8/9/why-is-pezeshkian-urging-an-end-to-irans-no-war-no-peace-status?traffic_source=rss
-   Category: geopolitics
-
-6. Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss
-   Category: geopolitics
-
-7. State of emergency declared as fast-moving Canada wildfire doubles in size
+2. Residents warned to brace for the worst as Canada wildfire rages out of control
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-8. Yemeni army warns Houthis after attacks heighten escalation risk
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/video/newsfeed/2026/8/9/yemeni-army-warns-houthis-after-attacks-heighten-escalation-risk?traffic_source=rss
-   Category: geopolitics
-
-9. Perez Hilton faces long recovery after reports he self-harmed during livestream
+3. Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation
    Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss
+   Link: https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-10. Israel advances plan for 627 settler units in occupied West Bank
+4. Ancient Roman shipwreck discovered off Sicily coast
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa
    Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/8/9/israel-announces-tender-for-627-settler-units-in-occupied-west-bank?traffic_source=rss
+   Link: https://www.aljazeera.com/news/2026/8/9/russian-forces-kill-several-in-ukraine-launch-brutal-attack-in-odesa?traffic_source=rss
    Category: geopolitics
 
-11. Flight cancellations, evacuations as China braces for Typhoon Dolphin
+6. Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news
+   Category: geopolitics
+
+7. Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say
    Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss
+   Link: https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss
    Category: geopolitics
 
-12. Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot
+8. ‘The wealthy poor’: Soaring food prices hurt Iranian families
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/features/2026/8/9/the-wealthy-poor-soaring-food-prices-hurt-iranian-families?traffic_source=rss
+   Category: geopolitics
+
+9. In Munich, it's never too early for a breakfast beer with sausage and pretzels
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/09/nx-s1-5900954/in-munich-its-never-too-early-for-a-breakfast-beer-with-sausage-and-pretzels
+   Category: geopolitics
+
+10. This rising painter reimagines Renaissance art in a cocoa plantation in Cameroon
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/09/g-s1-137636/paintings-religious-renaissance-old-masters-marc-padeu-african-cameroon-artist
+   Category: geopolitics
+
+11. Here are the 2 big things we're watching in the stock market in the week ahead
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html
+   Link: https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html
    Category: markets
 
-13. Verizon mobile service restored after outage for thousands of customers in the U.S.
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html
-   Category: markets
-
-14. ‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?
+12. The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories
    Category: markets
 
-15. ‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?
+13. Top Wall Street analysts like these 3 stocks for their solid growth potential
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/09/top-analysts-like-these-3-stocks-for-their-solid-growth-potential.html
+   Category: markets
+
+14. ‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories
+   Category: markets
+
+15. Abel puts a big chunk of Berkshire's cash to work
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/09/abel-puts-a-big-chunk-of-berkshires-cash-to-work.html
+   Category: markets
+
+16. 5 ‘rules’ your parents taught you that are sabotaging your career, says expert—like ‘always be grateful’
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html
+   Category: markets
+
+17. ‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories
+   Category: markets
+
+18. ‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?
    Source: MarketWatch — Top Stories
    Link: https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories
    Category: markets
 
-16. Social Security’s funding crisis is the elephant in the room. But don’t ignore the mouse.
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories
+19. Myspace eyes comeback as an 'antidote' to social media fatigue — but it may be a long shot
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html
    Category: markets
 
-17. How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories
-   Category: markets
+20. 60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260808235013.htm
+   Category: science technology
 
-18. Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories
-   Category: markets
+21. Scientists discover bacteria that lock toxic uranium into a stable form
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035149.htm
+   Category: science technology
 
-19. I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories
-   Category: markets
+22. Dinosaurs became giants — so why did they never become tiny?
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035137.htm
+   Category: science technology
 
-20. ‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories
-   Category: markets
+23. Chemists set electrons free and break a decades-old chemistry barrier
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035147.htm
+   Category: science technology
 
-21. Meteorite that smashed through a New Jersey roof reveals clues to life’s origins
+24. Stress can scramble your brain’s internal GPS, MRI study finds
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035151.htm
+   Category: science technology
+
+25. The dodo bird had a secret sensory world scientists are only now discovering
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035143.htm
+   Category: science technology
+
+26. Meteorite that smashed through a New Jersey roof reveals clues to life’s origins
    Source: ScienceDaily — Top Science
    Link: https://www.sciencedaily.com/releases/2026/08/260807035145.htm
    Category: science technology
 
-22. This tiny gold crystal could bring quantum technology out of the deep freeze
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/08/260806050706.htm
-   Category: science technology
-
-23. A protein older than blood circulation could transform cancer immunotherapy
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/08/260806050702.htm
-   Category: science technology
-
-24. The sun is covered in tiny whirlpools we’ve never seen before
+27. The sun is covered in tiny whirlpools we’ve never seen before
    Source: ScienceDaily — Top Science
    Link: https://www.sciencedaily.com/releases/2026/08/260807035142.htm
    Category: science technology
 
-25. 2026 IGARSS Hyperwall Schedule
-   Source: NASA — Recently Published
-   Link: https://science.nasa.gov/earth/2026-igarss-hyperwall-schedule
-   Category: science technology
-
-26. APOD: 2026 August 8 – A Messier Moment for Tempel 2
+28. APOD: 2026 August 8 – A Messier Moment for Tempel 2
    Source: NASA — Recently Published
    Link: https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2
-   Category: science technology
-
-27. Sunlight creates quantum entanglement once thought to require lasers
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/08/260807035133.htm
-   Category: science technology
-
-28. Cost competitiveness of alternative heavy-duty truck technologies under real-world utilisation profiles
-   Source: Nature — Technology
-   Link: https://www.nature.com/articles/s41467-026-76265-1
-   Category: science technology
-
-29. Teen cannabis use linked to slower memory and thinking growth
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/08/260806050726.htm
    Category: science technology
 
 Production note:
