@@ -1,0 +1,151 @@
+Jeff Daily Briefing — 2026-08-10
+
+Sources used for this episode:
+
+1. Making Knowledge Distillation Cheap Enough to Run at Scale
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
+   Category: ai computing
+
+2. Meta is back with Muse Glimmer: local, agentic, multimodal, and open source
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/muse-glimmer
+   Category: ai computing
+
+3. At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+4. Ukrainian drone attack on the Russian city of Nizhnekamsk kills 12, authorities say
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia
+   Category: geopolitics
+
+5. What’s behind Trump’s shift to economic pressure on Iran? Will it work?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work?traffic_source=rss
+   Category: geopolitics
+
+6. Former Thai MP allegedly kills official and confesses on YouTube
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Suspected crime boss Kinahan spends first night in custody in Ireland
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. China evacuates one million from homes as massive storm arrives
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. Powerful Typhoon Dolphin hits China, prompting flood and landslide warnings
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/gallery/2026/8/10/powerful-typhoon-dolphin-hits-china-prompting-flood-and-landslide-warnings?traffic_source=rss
+   Category: geopolitics
+
+10. Who is Mohsen Rezaei, and how significant is his appointment?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/10/who-is-mohsen-rezaei-and-how-significant-is-his-appointment?traffic_source=rss
+   Category: geopolitics
+
+11. ‘Like the movies’: How Ukraine’s ground robots are changing rules of war
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss
+   Category: geopolitics
+
+12. At least 13 killed in Ukrainian drone attack on Russia’s Nizhnekamsk
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/10/at-least-13-killed-in-ukrainian-drone-attack-on-russias-nizhnekamsk?traffic_source=rss
+   Category: geopolitics
+
+13. The U.S. economy is shedding jobs. Here’s why that’s good news for stocks.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories
+   Category: markets
+
+14. Shein faces existential threat as tariffs hit low-price model, putting new focus on services
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/10/shein-ipo-tariffs.html
+   Category: markets
+
+15. This is the hottest ZIP Code where homes are selling fast
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories
+   Category: markets
+
+16. OpenAI tightens controls on its new model over cybersecurity risks, as AI security debate intensifies
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html
+   Category: markets
+
+17. Wall Street’s biggest bank just raised its expectations for the stock market
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/wall-streets-biggest-bank-just-raised-its-expectations-for-the-stock-market-cac6d311?mod=mw_rss_topstories
+   Category: markets
+
+18. ‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories
+   Category: markets
+
+19. Australian rare earth miner surges after U.S. Department of Defense investment
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html
+   Category: markets
+
+20. House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/10/openai-anthropic-ai-hack-congress.html
+   Category: markets
+
+21. Mark Zuckerberg takes on the AI doomers in 6,500-word essay
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/mark-zuckerberg-takes-on-the-ai-doomers-in-6-500-word-essay-fd581f3b?mod=mw_rss_topstories
+   Category: markets
+
+22. APOD: 2026 August 10 – Three Galaxy Pairs
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs
+   Category: science technology
+
+23. Open practices across science, software, education and other domains
+   Source: Nature — Technology
+   Link: https://www.nature.com/articles/s41562-026-02526-0
+   Category: science technology
+
+24. 60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260808235013.htm
+   Category: science technology
+
+25. Scientists discover bacteria that lock toxic uranium into a stable form
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035149.htm
+   Category: science technology
+
+26. Dinosaurs became giants — so why did they never become tiny?
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035137.htm
+   Category: science technology
+
+27. Chemists set electrons free and break a decades-old chemistry barrier
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035147.htm
+   Category: science technology
+
+28. Stress can scramble your brain’s internal GPS, MRI study finds
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035151.htm
+   Category: science technology
+
+29. The dodo bird had a secret sensory world scientists are only now discovering
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260807035143.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
