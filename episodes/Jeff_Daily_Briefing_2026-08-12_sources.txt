@@ -1,0 +1,156 @@
+Jeff Daily Briefing — 2026-08-12
+
+Sources used for this episode:
+
+1. Thinking of ACE? We Can Do It with Fewer Tokens
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/ibm-research/altk-evolve-sldd
+   Category: ai computing
+
+2. With a feel for physics, AI models simulate a wider range of real-world scenarios
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810
+   Category: ai computing
+
+3. Andrew Tate's extradition fight tests his influence with Trump's America
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/12/nx-s1-5902974/andrew-tate-tristan-extradition-maga-trump-political-ties
+   Category: geopolitics
+
+4. Wisconsin result dents winning streak for Democratic Party's left wing
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Singapore and S Korea pull Trader Joe's seasoning over poppy seeds
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. Trump confirms he switched planes after Nato summit because of possible threat
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Tata Group Chairman N Chandrasekaran to step down in February
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Putin warns of tit-for-tat seizures of European vessels
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels?traffic_source=rss
+   Category: geopolitics
+
+9. Wildberries under fire: Why is Ukraine targeting a Russian retail giant?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/12/ukraines-strikes-on-russias-wildberries-arent-about-the-front-line?traffic_source=rss
+   Category: geopolitics
+
+10. At least 15 die as boat sinks in Zimbabwe's Lake Kariba
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. ‘The hardest mission of my life’: A rescuer’s loss in the Lebanon War
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/video/al-jazeera-originals/2026/8/12/aje-onl-or_leb_paramedics_teaser-120826?traffic_source=rss
+   Category: geopolitics
+
+12. Former U.S. Marine held in Russia on disputed charges has been released
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia
+   Category: geopolitics
+
+13. CoreWeave surges 18% in premarket after a 'cleaner quarter.' Here's what's happening
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html
+   Category: markets
+
+14. Citadel Securities called the stock-market reset. Now it says leverage may build up again.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/citadel-securities-called-the-stock-market-reset-now-it-says-leverage-may-build-up-again-988eec86?mod=mw_rss_topstories
+   Category: markets
+
+15. AI’s costly buildout complicates the Fed’s inflation fight
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html
+   Category: markets
+
+16. Mortgage rates finally stop rising, causing demand to trickle back
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html
+   Category: markets
+
+17. Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html
+   Category: markets
+
+18. My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories
+   Category: markets
+
+19. A stock just surged on news Situational Awareness had bought it. But its current fate is unclear.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/a-stock-just-surged-on-news-situational-awareness-had-bought-it-but-its-current-fate-is-unclear-00f17a97?mod=mw_rss_topstories
+   Category: markets
+
+20. New York City Council announces probe into prediction market platforms’ marketing strategies
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html
+   Category: markets
+
+21. Another AI lab is burning through cash as Tencent earnings rise
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/another-ai-lab-is-burning-through-cash-as-tencent-earnings-rise-1251b4c6?mod=mw_rss_topstories
+   Category: markets
+
+22. What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8
+   Category: science technology
+
+23. Stops Along the Path of Totality
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality
+   Category: science technology
+
+24. NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface
+   Category: science technology
+
+25. Lion Nebula Roars in Webb’s Sights
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights
+   Category: science technology
+
+26. NASA Shares Station Research Today Supporting Moon, Mars Tomorrow
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow
+   Category: science technology
+
+27. NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula
+   Category: science technology
+
+28. Building the Moon Base: NASA Stories at the Ion
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion
+   Category: science technology
+
+29. Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity
+   Category: science technology
+
+30. APOD: 2026 August 11 – Six Moons of Saturn
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
