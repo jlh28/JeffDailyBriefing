@@ -1,0 +1,166 @@
+Jeff Daily Briefing — 2026-08-25
+
+Sources used for this episode:
+
+1. Granite 4.2 LLMs: How They're Built
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/ibm-granite/granite-4-2
+   Category: ai computing
+
+2. Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
+   Category: ai computing
+
+3. Wire It, Run It, Deploy It: AI Workflows in Gradio
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/gradio-workflow-guide
+   Category: ai computing
+
+4. Generating scenarios for extreme events, without extreme data
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
+   Category: ai computing
+
+5. CIA chief in Moscow for unannounced talks, US media reports
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. China hits out at 'illegal' new US sanctions on Iran and trading partners
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. China says will safeguard its own interests as US expands Iran sanctions
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss
+   Category: geopolitics
+
+8. Canada announces retaliatory tariffs on the U.S. as the countries' trade fight deepens
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs
+   Category: geopolitics
+
+9. Two unvaccinated people die of measles in Pennsylvania
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy
+   Category: geopolitics
+
+11. US launches Economic war on Iran
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss
+   Category: geopolitics
+
+12. Trump floats renaming Lake Ontario to Lake America during Canada trade war
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/25/trump-floats-renaming-lake-ontario-to-lake-america-during-canada-trade-war?traffic_source=rss
+   Category: geopolitics
+
+13. Brain disease in dead NFL players 'higher than previously shown'
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+14. 'Forget about going back': 9 years on, Rohingya crisis enters dangerous phase
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/25/g-s1-140007/forget-about-going-back-9-years-on-rohingya-crisis-enters-dangerous-phase
+   Category: geopolitics
+
+15. Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html
+   Category: markets
+
+16. Home prices in Chicago have risen the most in the U.S. over the past year
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/home-prices-in-chicago-have-risen-the-most-in-the-u-s-over-the-past-year-3ee317a8?mod=mw_rss_topstories
+   Category: markets
+
+17. Canada unveils retaliatory tariffs on about $20 billion of U.S. goods
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html
+   Category: markets
+
+18. China needs U.S. dollars but is building a hedge against Washington’s sanctions
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html
+   Category: markets
+
+19. Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html
+   Category: markets
+
+20. The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html
+   Category: markets
+
+21. Nvidia’s dependence on hyperscalers faces big test in earnings report
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html
+   Category: markets
+
+22. Gold hovers near three-month high on dollar weakness, Treasury bond buyback plans
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html
+   Category: markets
+
+23. You don’t have to be rich to start investing. Here’s a simple way to begin.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-start-investing-heres-a-simple-way-to-begin-f1b0e194?mod=mw_rss_topstories
+   Category: markets
+
+24. Astronauts Anil Menon and Sophie Adenot on Spacewalk
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk
+   Category: science technology
+
+25. Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions
+   Category: science technology
+
+26. Shingles vaccine linked to 24% lower dementia risk
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260823015013.htm
+   Category: science technology
+
+27. Atomic catalyst unlocks the hidden value of plant waste
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260824065601.htm
+   Category: science technology
+
+28. Scientists find hidden “highways” guiding animal evolution
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260824065514.htm
+   Category: science technology
+
+29. NASA Sets Coverage for Roman Space Telescope Launch from Florida
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida
+   Category: science technology
+
+30. NASA finds Earth microbes could survive on the Moon
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260823094142.htm
+   Category: science technology
+
+31. Depression may shut down the brain’s ability to make new neurons
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260823094135.htm
+   Category: science technology
+
+32. Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
