@@ -1,0 +1,171 @@
+Jeff Daily Briefing — 2026-08-26
+
+Sources used for this episode:
+
+1. AI helps design new materials that work in the real world
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
+   Category: ai computing
+
+2. Granite 4.2 LLMs: How They're Built
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/ibm-granite/granite-4-2
+   Category: ai computing
+
+3. Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
+   Category: ai computing
+
+4. Generating scenarios for extreme events, without extreme data
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824
+   Category: ai computing
+
+5. Wire It, Run It, Deploy It: AI Workflows in Gradio
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/gradio-workflow-guide
+   Category: ai computing
+
+6. Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. One US dollar now costs 2 million rials in Iran, and here’s what it can buy
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss
+   Category: geopolitics
+
+9. Canada to hit U.S. with retaliatory tariffs. And, remembering music legend Dolly Parton
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters
+   Category: geopolitics
+
+10. Libyan who was cleared after Lockerbie bombing trial dies aged 70
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. Indian jewellery ad pulled after backlash over actor's outfit
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Is Japan trying to build bridges with China after Taiwan spat?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/26/is-japan-trying-to-build-bridges-with-china-after-taiwan-spat?traffic_source=rss
+   Category: geopolitics
+
+13. China’s Xi to visit Kyrgyzstan, Egypt
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/26/chinas-xi-to-visit-kyrgyzstan-egypt?traffic_source=rss
+   Category: geopolitics
+
+14. Bodies found on S Korean holiday island as missing persons scandal deepens
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+15. Infantino has no future at FIFA, says European Leagues chief
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/sports/2026/8/26/infantino-has-no-future-at-fifa-says-european-leagues-chief?traffic_source=rss
+   Category: geopolitics
+
+16. Wall Street’s massive bet against long-term bonds is a recipe for a painful bearish unwind, says Citadel Securities
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/wall-streets-massive-bet-against-long-term-bonds-is-a-recipe-for-a-painful-bearish-unwind-says-citadel-securities-430dc145?mod=mw_rss_topstories
+   Category: markets
+
+17. Mortgage rates hit highest level in 3 weeks, weakening demand further
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/26/mortgage-rates-hit-highest-level-in-3-weeks-weakening-demand-further.html
+   Category: markets
+
+18. Japan got caught in the tech selloff. Now it’s time to buy the dip, says strategist.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/japan-got-caught-in-the-tech-selloff-now-its-time-to-buy-the-dip-says-strategist-c7b4ed5f?mod=mw_rss_topstories
+   Category: markets
+
+19. ‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories
+   Category: markets
+
+20. Oil prices extend slide as Iran and Oman eye temporary Hormuz deal
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/oil-prices-extend-slide-as-iran-and-oman-eye-temporary-hormuz-deal-a86a86bf?mod=mw_rss_topstories
+   Category: markets
+
+21. Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories
+   Category: markets
+
+22. Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories
+   Category: markets
+
+23. Haidilao shares jump as delivery growth and new restaurant brands boost outlook
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/26/haidilao-shares-delivery-restaurant-growth.html
+   Category: markets
+
+24. Customers are fleeing TurboTax over price, and Intuit’s stock is sliding
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/customers-are-fleeing-turbotax-over-price-and-intuits-stock-is-sliding-a37dcce0?mod=mw_rss_topstories
+   Category: markets
+
+25. APOD: 2026 August 26 – JWST Images The Lion’s Head Nebula
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula
+   Category: science technology
+
+26. NASA Ames Experts Available for Roman Space Telescope Interviews
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews
+   Category: science technology
+
+27. New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network
+   Category: science technology
+
+28. NASA Ames’ Contributions to Roman’s Mission
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission
+   Category: science technology
+
+29. NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama
+   Category: science technology
+
+30. NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars
+   Category: science technology
+
+31. Three forgotten kings could rewrite the history of ancient Assyria
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260824065549.htm
+   Category: science technology
+
+32. Astronauts Anil Menon and Sophie Adenot on Spacewalk
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk
+   Category: science technology
+
+33. Galactic Gems Glisten in New Gallery From NASA’s Chandra
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
