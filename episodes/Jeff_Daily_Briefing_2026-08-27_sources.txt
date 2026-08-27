@@ -1,0 +1,156 @@
+Jeff Daily Briefing — 2026-08-27
+
+Sources used for this episode:
+
+1. AI helps design new materials that work in the real world
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826
+   Category: ai computing
+
+2. Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/train-multi-vector-encoder
+   Category: ai computing
+
+3. Tanzania's VP expelled from ruling party for indiscipline as his successor named
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cp3kwgyp1vwo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+4. What we know about deadly Nepal-Tibet floods
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Official leading Trump's Gaza ceasefire effort criticizes Israel for its attacks
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire
+   Category: geopolitics
+
+6. Norway's royal family gathers at King Harald's bedside as his condition worsens
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding
+   Category: geopolitics
+
+8. Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. At least 1,500 missing after deadly Nepal-Tibet floods
+   Source: NPR — World
+   Link: https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods
+   Category: geopolitics
+
+10. Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit?traffic_source=rss
+   Category: geopolitics
+
+11. Six months of the Iran war – as told through Trump’s social media posts
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/27/six-months-of-the-iran-war-as-told-through-trumps-social-media-posts?traffic_source=rss
+   Category: geopolitics
+
+12. Two dead and 10 hurt after car rams into crowd in northern France
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. Jackson Hole is Warsh’s chance to win over his Fed colleagues — and investors
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/jackson-hole-is-warshs-chance-to-win-over-his-fed-colleagues-and-investors-8e21c8fc?mod=mw_rss_topstories
+   Category: markets
+
+14. 2 charts show why beaten-down Treasury bonds may be due for an epic rebound rally
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/2-charts-show-why-beaten-down-treasury-bonds-may-be-due-for-an-epic-rebound-rally-50eaf9dd?mod=mw_rss_topstories
+   Category: markets
+
+15. Salesforce stock is jumping. What Wall Street is saying about its earnings and its Anthropic relationship.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories
+   Category: markets
+
+16. Second straight rate hike for Asia’s number-three economy as Nvidia-led AI expansion continues
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/second-straight-rate-hike-for-asias-number-three-economy-as-nvidia-led-ai-expansion-continues-2dc36145?mod=mw_rss_topstories
+   Category: markets
+
+17. Nvidia jumps 7% after blockbuster earnings boost AI confidence
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html
+   Category: markets
+
+18. Why these analysts say bitcoin will double by next year — and could reach $500,000 at the end of the decade
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/why-these-analysts-say-bitcoin-will-double-by-next-year-and-could-reach-500-000-at-the-end-of-the-decade-23ec78f3?mod=mw_rss_topstories
+   Category: markets
+
+19. Nvidia stock is climbing after another set of blockbuster results. Here’s what Wall Street is saying.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories
+   Category: markets
+
+20. CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html
+   Category: markets
+
+21. Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories
+   Category: markets
+
+22. APOD: 2026 August 27 – Colorful Aurora over an Icelandic Waterfall
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-august-27-colorful-aurora-over-an-icelandic-waterfall
+   Category: science technology
+
+23. Roman Space Telescope Travels to SpaceX Hangar
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/roman-space-telescope-travels-to-spacex-hangar
+   Category: science technology
+
+24. NASA Johnson Pilots Chase Moon’s Shadow for Eclipse Science
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-pilots-chase-moons-shadow-for-eclipse-science
+   Category: science technology
+
+25. Building Foresight for Earth Science, featuring Lindsey Jacobson
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/earth/earth-visualization-mapping/building-foresight-for-earth-science-featuring-lindsey-jacobson
+   Category: science technology
+
+26. NASA Sets Spacewalk for Station Maintenance, Live Coverage Planned
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-sets-spacewalk-for-station-maintenance-live-coverage-planned
+   Category: science technology
+
+27. Contractor to Civil Servant: NASA Welcomes Jeret Howard
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jeret-howard
+   Category: science technology
+
+28. NASA Begins Moon Mission Plume-Surface Interaction Tests
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/missions/artemis/nasa-begins-moon-mission-plume-surface-interaction-tests
+   Category: science technology
+
+29. NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260826055448.htm
+   Category: science technology
+
+30. 190-year-old DNA reveals a hidden pangolin species
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260826055500.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
