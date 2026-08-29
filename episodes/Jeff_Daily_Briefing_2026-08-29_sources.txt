@@ -1,0 +1,156 @@
+Jeff Daily Briefing — 2026-08-29
+
+Sources used for this episode:
+
+1. Looking beyond natural sequences
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/looking-beyond-natural-sequences-0827
+   Category: ai computing
+
+2. The Open ASR Leaderboard Adds Its First Global South Language
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/open-asr-leaderboard-global-south
+   Category: ai computing
+
+3. Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss
+   Category: geopolitics
+
+4. At least 27 dead and hundreds evacuated after strike on Kyiv warehouse
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Russian attack on warehouse near Ukraine’s Kyiv kills at least 27
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss
+   Category: geopolitics
+
+6. Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Right-wing commentator Milo Yiannopoulos detained by ICE
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. Footage of Tibet floods isn't being shown in China - and we know little about victims there
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss
+   Category: geopolitics
+
+11. Six months into the Iran war, a new Gulf security architecture is emerging
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss
+   Category: geopolitics
+
+12. Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories
+   Category: markets
+
+14. Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories
+   Category: markets
+
+15. ‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories
+   Category: markets
+
+16. My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories
+   Category: markets
+
+17. ‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories
+   Category: markets
+
+18. Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html
+   Category: markets
+
+19. Opinion: Dolly Parton was underestimated for decades. That became one of her greatest strengths
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html
+   Category: markets
+
+20. Mark Walter's insurer Delaware Life sees two banks pause sale of its products amid probes
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/28/mark-walter-delaware-life-truist-fifth-third-banks.html
+   Category: markets
+
+21. U.S. appeals court rules against prediction markets, sets up likely fight at Supreme Court
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html
+   Category: markets
+
+22. Australia’s red soil may be hiding a massive clean energy source
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260829035214.htm
+   Category: science technology
+
+23. NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge
+   Category: science technology
+
+24. NASA’s Artemis II Crew Receives Congressional Space Medal of Honor
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor
+   Category: science technology
+
+25. Your sleep may be hiding an early clue to Alzheimer’s
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260828005218.htm
+   Category: science technology
+
+26. Scientists discover why damaged nerves struggle to heal
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260828005427.htm
+   Category: science technology
+
+27. President Honors NASA’s Artemis II Crew with Highest US Space Award
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award
+   Category: science technology
+
+28. President Trump Signs Executive Order to Create US Space Academy
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy
+   Category: science technology
+
+29. Grants
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/centers-and-facilities/grants-2
+   Category: science technology
+
+30. NASA’s Roman telescope will see 100 times more sky than Hubble
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260828082333.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
