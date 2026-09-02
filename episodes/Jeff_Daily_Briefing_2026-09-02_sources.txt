@@ -2,19 +2,19 @@ Jeff Daily Briefing — 2026-09-02
 
 Sources used for this episode:
 
-1. Walter Torous named executive director of MIT Center for Real Estate
+1. Real-Time Intelligence with IBM Time Series Models on Confluent
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/ibm-research/real-time-intelligence
+   Category: ai computing
+
+2. Walter Torous named executive director of MIT Center for Real Estate
    Source: MIT News — Artificial Intelligence
    Link: https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901
    Category: ai computing
 
-2. BenchMIRT: What are LLM benchmarks actually measuring?
+3. BenchMIRT: What are LLM benchmarks actually measuring?
    Source: Hugging Face — Blog
    Link: https://huggingface.co/blog/allenai/benchmirt
-   Category: ai computing
-
-3. Ila Kumar: Innovating with communities
-   Source: MIT News — Artificial Intelligence
-   Link: https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901
    Category: ai computing
 
 4. Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI
@@ -22,9 +22,9 @@ Sources used for this episode:
    Link: https://huggingface.co/blog/webgpu-kernels
    Category: ai computing
 
-5. MIT Quantum Initiative launches postdoctoral fellowship program
+5. Ila Kumar: Innovating with communities
    Source: MIT News — Artificial Intelligence
-   Link: https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831
+   Link: https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901
    Category: ai computing
 
 6. Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations
@@ -32,94 +32,94 @@ Sources used for this episode:
    Link: https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-7. Putin signals support for Iran in ongoing war with the U.S.
+7. EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Putin signals support for Iran in ongoing war with the U.S.
    Source: NPR — World
    Link: https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s
    Category: geopolitics
 
-8. Guinea-Bissau referendum approves new constitution that expands president's powers
+11. Tiger Woods changes plea, gets five-year driving ban
    Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss
+   Link: https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-9. Bus crash on Egypt's Red Sea coast kills 22
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-10. India's prime minister is wooing the GenZ while cracking down on them
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests
-   Category: geopolitics
-
-11. Thousands still missing as Nepal-Tibet flood relief and recovery intensifies
+12. Nepal intensifies relief and recovery efforts after deadly floods, UN says
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-12. US sailors arrive in Thailand's Pattaya after record 250 days at sea
+13. Lizzo 'grateful' after judge dismisses lawsuit against production company
    Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss
+   Link: https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-13. U.S. military strikes Iran, while Trump vows more for Tehran's retaliation
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war
+14. Bus crash on Egypt's Red Sea coast kills 22
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-14. ICE says it now has enough body cameras. And, Congress averts shutdown before midterms
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown
+15. Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss
    Category: geopolitics
 
-15. Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties
-   Category: geopolitics
+16. Bond market sell-off: How investors can move and protect their money as rates rise
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/02/bond-market-selloff-rates-fixed-income-treasury-yields.html
+   Category: markets
 
-16. Bank of Canada mulls Trump tariff shock as it readies interest rates decision
+17. Bank of Canada mulls Trump tariff shock as it holds interest rates
    Source: CNBC — Top News
    Link: https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html
    Category: markets
 
-17. 10-year U.S. Treasury yield hits highest level since November 2023 as global bond sell-off continues
+18. Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html
+   Category: markets
+
+19. New York Fed's Williams says yield surge due to strong economic prospects
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html
+   Category: markets
+
+20. U.S. businesses created the fewest new jobs in 7 months, ADP says. Hiring slowed in the summer.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/adp-says-businesses-create-the-fewest-new-jobs-in-7-months-hiring-slowed-in-the-summer-59291cd9?mod=mw_rss_topstories
+   Category: markets
+
+21. 10-year U.S. Treasury yield hits highest level since November 2023
    Source: CNBC — Top News
    Link: https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html
    Category: markets
 
-18. Chevron outlines $7 billion plan to expand in Venezuela
+22. How these homeowners pulled off buying a house in their early 20s
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories
    Category: markets
 
-19. Chevron will expand Venezuela operations, more than doubling production through $7 billion investment
+23. How one strategist warned on semiconductor stocks within a day of their top
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/how-one-strategist-warned-on-semiconductor-stocks-within-a-day-of-their-top-03ee8d34?mod=mw_rss_topstories
+   Category: markets
+
+24. Private payrolls rose by 38,000 in August, less than expected, ADP reports
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html
-   Category: markets
-
-20. Demand for riskier mortgages rises along with interest rates
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/02/demand-for-riskier-mortgages-rises-along-with-interest-rates.html
-   Category: markets
-
-21. MongoDB shares tumble despite strong earnings on ‘disappointing’ news for investors
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/mongodb-shares-tumble-despite-strong-earnings-on-disappointing-news-for-investors-5ee13c7b?mod=mw_rss_topstories
-   Category: markets
-
-22. Stocks that rise when the S&P 500 falls are weirdly keeping up with the rest of Wall Street
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/stocks-that-rise-when-the-s-p-500-falls-are-weirdly-keeping-up-with-the-rest-of-wall-street-0cf76f31?mod=mw_rss_topstories
-   Category: markets
-
-23. Berkshire CEO Abel says Alphabet a 'significant player' in AI after growing stake in Q2
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/02/berkshire-ceo-abel-says-alphabet-a-significant-player-in-ai-after-growing-stake-in-q2.html
-   Category: markets
-
-24. Europe’s largest airline warns of jet-fuel prices at $140 this winter as it cuts capacity
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/europes-largest-airline-warns-of-jet-fuel-prices-at-140-this-winter-as-it-cuts-capacity-ba7821a9?mod=mw_rss_topstories
+   Link: https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html
    Category: markets
 
 25. Too much coffee may weaken bones, study finds
@@ -157,14 +157,14 @@ Sources used for this episode:
    Link: https://www.nature.com/articles/d41586-026-02746-4
    Category: science technology
 
-32. Scientists discover why snake embryos twist into spirals
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/09/260901070516.htm
-   Category: science technology
-
-33. NASA Welcomes Türkiye as Newest Artemis Accords Signatory
+32. NASA Welcomes Türkiye as Newest Artemis Accords Signatory
    Source: NASA — Recently Published
    Link: https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory
+   Category: science technology
+
+33. Scientists discover why snake embryos twist into spirals
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901070516.htm
    Category: science technology
 
 Production note:
