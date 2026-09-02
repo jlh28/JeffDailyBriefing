@@ -1,0 +1,171 @@
+Jeff Daily Briefing — 2026-09-02
+
+Sources used for this episode:
+
+1. Walter Torous named executive director of MIT Center for Real Estate
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901
+   Category: ai computing
+
+2. BenchMIRT: What are LLM benchmarks actually measuring?
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/allenai/benchmirt
+   Category: ai computing
+
+3. Ila Kumar: Innovating with communities
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901
+   Category: ai computing
+
+4. Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/webgpu-kernels
+   Category: ai computing
+
+5. MIT Quantum Initiative launches postdoctoral fellowship program
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831
+   Category: ai computing
+
+6. Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Putin signals support for Iran in ongoing war with the U.S.
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s
+   Category: geopolitics
+
+8. Guinea-Bissau referendum approves new constitution that expands president's powers
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. Bus crash on Egypt's Red Sea coast kills 22
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. India's prime minister is wooing the GenZ while cracking down on them
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests
+   Category: geopolitics
+
+11. Thousands still missing as Nepal-Tibet flood relief and recovery intensifies
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. US sailors arrive in Thailand's Pattaya after record 250 days at sea
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. U.S. military strikes Iran, while Trump vows more for Tehran's retaliation
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war
+   Category: geopolitics
+
+14. ICE says it now has enough body cameras. And, Congress averts shutdown before midterms
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown
+   Category: geopolitics
+
+15. Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties
+   Category: geopolitics
+
+16. Bank of Canada mulls Trump tariff shock as it readies interest rates decision
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html
+   Category: markets
+
+17. 10-year U.S. Treasury yield hits highest level since November 2023 as global bond sell-off continues
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html
+   Category: markets
+
+18. Chevron outlines $7 billion plan to expand in Venezuela
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/chevron-outlines-7-billion-plan-to-expand-in-venezuela-3cc5ef7c?mod=mw_rss_topstories
+   Category: markets
+
+19. Chevron will expand Venezuela operations, more than doubling production through $7 billion investment
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html
+   Category: markets
+
+20. Demand for riskier mortgages rises along with interest rates
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/02/demand-for-riskier-mortgages-rises-along-with-interest-rates.html
+   Category: markets
+
+21. MongoDB shares tumble despite strong earnings on ‘disappointing’ news for investors
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/mongodb-shares-tumble-despite-strong-earnings-on-disappointing-news-for-investors-5ee13c7b?mod=mw_rss_topstories
+   Category: markets
+
+22. Stocks that rise when the S&P 500 falls are weirdly keeping up with the rest of Wall Street
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/stocks-that-rise-when-the-s-p-500-falls-are-weirdly-keeping-up-with-the-rest-of-wall-street-0cf76f31?mod=mw_rss_topstories
+   Category: markets
+
+23. Berkshire CEO Abel says Alphabet a 'significant player' in AI after growing stake in Q2
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/02/berkshire-ceo-abel-says-alphabet-a-significant-player-in-ai-after-growing-stake-in-q2.html
+   Category: markets
+
+24. Europe’s largest airline warns of jet-fuel prices at $140 this winter as it cuts capacity
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/europes-largest-airline-warns-of-jet-fuel-prices-at-140-this-winter-as-it-cuts-capacity-ba7821a9?mod=mw_rss_topstories
+   Category: markets
+
+25. Too much coffee may weaken bones, study finds
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901070550.htm
+   Category: science technology
+
+26. Earth may have lost the Sun’s protective shield millions of years ago
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901070523.htm
+   Category: science technology
+
+27. NASA Selects Blue Origin as Mars Telecommunications Network Provider
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider
+   Category: science technology
+
+28. A search for one exotic particle uncovered two strange new structures
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/08/260831015147.htm
+   Category: science technology
+
+29. Historic Engines Take Their Place on Artemis III
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii
+   Category: science technology
+
+30. What’s Up: September 2026 Skywatching Tips from NASA
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/solar-system/skywatching/whats-up-september-2026-skywatching-tips-from-nasa
+   Category: science technology
+
+31. Satellite images before Nepal disaster showed warning signs
+   Source: Nature — Technology
+   Link: https://www.nature.com/articles/d41586-026-02746-4
+   Category: science technology
+
+32. Scientists discover why snake embryos twist into spirals
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901070516.htm
+   Category: science technology
+
+33. NASA Welcomes Türkiye as Newest Artemis Accords Signatory
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-turkiye-as-newest-artemis-accords-signatory
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
