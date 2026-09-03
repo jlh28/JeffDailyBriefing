@@ -2,179 +2,179 @@ Jeff Daily Briefing — 2026-09-03
 
 Sources used for this episode:
 
-1. Training a coding model to paint watercolours with TRL and OpenEnv
+1. NeoMME: an efficient Multimodal-native and Multilingual Encoder
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/Hcompany/neomme
+   Category: ai computing
+
+2. Training a coding model to paint watercolours with TRL and OpenEnv
    Source: Hugging Face — Blog
    Link: https://huggingface.co/blog/train-to-paint-with-code
    Category: ai computing
 
-2. From MIT to IBM, expediting AI and quantum deployment
+3. From MIT to IBM, expediting AI and quantum deployment
    Source: MIT News — Artificial Intelligence
    Link: https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902
    Category: ai computing
 
-3. Give Your Coding Agents a Memory You Own
+4. Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/grpo-with-trl-ifstruct
+   Category: ai computing
+
+5. Give Your Coding Agents a Memory You Own
    Source: Hugging Face — Blog
    Link: https://huggingface.co/blog/funes
    Category: ai computing
 
-4. System helps humans predict when self-driving cars will make mistakes
+6. System helps humans predict when self-driving cars will make mistakes
    Source: MIT News — Artificial Intelligence
    Link: https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902
    Category: ai computing
 
-5. Real-Time Intelligence with IBM Time Series Models on Confluent
+7. Real-Time Intelligence with IBM Time Series Models on Confluent
    Source: Hugging Face — Blog
    Link: https://huggingface.co/blog/ibm-research/real-time-intelligence
    Category: ai computing
 
-6. Walter Torous named executive director of MIT Center for Real Estate
-   Source: MIT News — Artificial Intelligence
-   Link: https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901
-   Category: ai computing
+8. Vance's Antichrist comments are a 'common belief', his friend tells BBC
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
 
-7. BenchMIRT: What are LLM benchmarks actually measuring?
-   Source: Hugging Face — Blog
-   Link: https://huggingface.co/blog/allenai/benchmirt
-   Category: ai computing
-
-8. Kenyan president orders crackdown on foreigners operating small businesses
+9. Kenyan president orders crackdown on foreigners operating small businesses
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-9. U.S.-Israel relations are on the rocks ahead of elections
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections
-   Category: geopolitics
-
-10. China's Xi visits Egypt for the first time in a decade
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade
-   Category: geopolitics
-
-11. Trump $1 coin makes him first living president on US currency in a century
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-12. EU foreign ministers fail to break deadlock over Israel and Ukraine
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss
-   Category: geopolitics
-
-13. Dems demand DHS fund election security. And, journalist Gloria Steinem has died
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem
-   Category: geopolitics
-
-14. Xi visits Egypt as China seeks deeper influence across the Mideast
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt
-   Category: geopolitics
-
-15. Embattled Spanish PM insists there were no prior warnings before Ceuta crisis
+10. Embattled Spanish PM insists there were no prior warnings before Ceuta crisis
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-16. Feminist activist and journalist Gloria Steinem dies at 92
+11. Palestinian teens killed during settler attack on West Bank village, officials say
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Feminist activist and journalist Gloria Steinem dies, aged 92
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-17. More than 80 migrants feared dead after boat rescued off Canary Islands
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss
+13. U.S.-Israel relations are on the rocks ahead of elections
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections
    Category: geopolitics
 
-18. Whether the Fed raises interest rates this month isn’t as big a deal for stocks as you might think
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/whether-the-fed-raises-interest-rates-this-month-isnt-as-big-a-deal-for-stocks-as-you-might-think-6464b88d?mod=mw_rss_topstories
+14. China's Xi visits Egypt for the first time in a decade
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade
+   Category: geopolitics
+
+15. Trump $1 coin makes him first living president on US currency in a century
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+16. Dems demand DHS fund election security. And, journalist Gloria Steinem has died
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem
+   Category: geopolitics
+
+17. Xi visits Egypt as China seeks deeper influence across the Mideast
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt
+   Category: geopolitics
+
+18. Waller, The Economic Outlook and Some Comments on My Policy Communication
+   Source: Federal Reserve — Speeches
+   Link: https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm
    Category: markets
 
-19. People under 21 can’t use most sportsbooks — so they’ve wagered over $5 billion on Kalshi instead
+19. As Broadcom’s stock falls, Wall Street focuses on the company’s forecast
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/people-under-21-cant-use-most-sportsbooks-so-theyve-wagered-over-5-billion-on-kalshi-instead-03730919?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories
    Category: markets
 
-20. Clean sweep or split Congress, these are the trades to make on the midterms outcome, says JPMorgan
+20. August jobs report could show a summer hiring slump. Haitian refugees are a wild card.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/august-jobs-report-could-show-a-summer-hiring-slump-haitian-refugees-are-a-wild-card-93fb6dfc?mod=mw_rss_topstories
+   Category: markets
+
+21. Fed Governor Waller indicates he will support holding rates steady at September meeting
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html
+   Category: markets
+
+22. Clean sweep or divided Congress, these are the midterm-elections trades to make, says JPMorgan
    Source: MarketWatch — Top Stories
    Link: https://www.marketwatch.com/story/clean-sweep-or-split-congress-these-are-the-trades-to-make-on-the-midterms-outcome-says-jpmorgan-91a1e3ee?mod=mw_rss_topstories
    Category: markets
 
-21. EnQuest is interested in buying BP’s North Sea assets, CEO tells CNBC
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/03/bp-north-sea-oil-gas-enquest.html
-   Category: markets
-
-22. Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html
-   Category: markets
-
-23. Why alarming bond yields might drop sooner than investors think
+23. Snowflake has a secret weapon that’s powering its stock toward a huge gain
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/why-alarming-bond-yields-might-drop-sooner-than-investors-think-675d908b?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories
    Category: markets
 
-24. China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html
-   Category: markets
-
-25. ‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?
+24. Here’s what Nvidia’s $13 billion Hugging Face deal means for the world of AI
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories
    Category: markets
 
-26. Putin floats 'chance' at peace with Ukraine as NATO chief warns Russia is becoming 'increasingly reckless'
+25. There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories
+   Category: markets
+
+26. 'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/03/putin-peace-russia-ukraine-nato-defense.html
+   Link: https://www.cnbc.com/2026/09/03/supersized-el-nino-un-economy.html
    Category: markets
 
-27. The universe has plenty of hydrogen. So why is star formation collapsing?
+27. NASA’s Hubble Spies Superbubble Scene
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene
+   Category: science technology
+
+28. NASA scientists discover a giant 10-sided pattern on Saturn
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260903064229.htm
+   Category: science technology
+
+29. Ancient “living fossils” may reveal how complex life began
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260902234514.htm
+   Category: science technology
+
+30. Scientists just overturned a century-old physics assumption
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901010659.htm
+   Category: science technology
+
+31. Bats carry dangerous viruses without getting sick. This may be why
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901010713.htm
+   Category: science technology
+
+32. The universe has plenty of hydrogen. So why is star formation collapsing?
    Source: ScienceDaily — Top Science
    Link: https://www.sciencedaily.com/releases/2026/09/260902234442.htm
    Category: science technology
 
-28. APOD: 2026 September 3 – The Eclipse and the Stork
+33. One immune switch may help drive aging across the body
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901010717.htm
+   Category: science technology
+
+34. APOD: 2026 September 3 – The Eclipse and the Stork
    Source: NASA — Recently Published
    Link: https://science.nasa.gov/image-article/apod-2026-september-3-the-eclipse-and-the-stork
    Category: science technology
 
-29. Peatland Fires Darken Skies in Indonesia
+35. Peatland Fires Darken Skies in Indonesia
    Source: NASA — Recently Published
    Link: https://science.nasa.gov/missions/aqua/peatland-fires-darken-skies-in-indonesia
-   Category: science technology
-
-30. NASA Revamps Challenge Linking Community College Studies to Aerospace Careers
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers
-   Category: science technology
-
-31. ADHD may have a surprising creative advantage
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/08/260831015150.htm
-   Category: science technology
-
-32. September brings a dazzling Venus and a glowing Harvest Moon
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/09/260902234500.htm
-   Category: science technology
-
-33. NASA Rocket Takes First Multi-Point Look Inside Radio-Disrupting Clouds
-   Source: NASA — Recently Published
-   Link: https://science.nasa.gov/science-research/heliophysics/nasa-rocket-takes-first-multi-point-look-inside-radio-disrupting-clouds
-   Category: science technology
-
-34. NASA’s Hubble Tracks New Decagon Encircling Saturn’s South Pole
-   Source: NASA — Recently Published
-   Link: https://science.nasa.gov/missions/hubble/nasas-hubble-tracks-new-decagon-encircling-saturns-south-pole
-   Category: science technology
-
-35. Mourning the loss of AI companions
-   Source: Nature — Technology
-   Link: https://www.nature.com/articles/s41562-026-02569-3
    Category: science technology
 
 Production note:
