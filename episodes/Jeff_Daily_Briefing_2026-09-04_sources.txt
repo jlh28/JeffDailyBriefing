@@ -27,144 +27,144 @@ Sources used for this episode:
    Link: https://huggingface.co/blog/funes
    Category: ai computing
 
-6. UK support for Falkland Islands 'unwavering', No 10 says
+6. UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-7. US diesel prices hit an all-time-high
+7. Body of world's youngest traditional king returns home to Uganda amid succession row
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. US diesel prices hit an all-time-high
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-8. Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect
+9. Philippine vice president is ordered arrested for threats against the president
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president
+   Category: geopolitics
+
+10. Myanmar military head visits Vietnam to normalize relations
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations
+   Category: geopolitics
+
+11. Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-9. How could US-Iran conflict end? Three experts give their views
+12. US envoys headed to Russia and Ukraine to relaunch mediation
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/4/us-envoys-headed-to-russia-and-ukraine-to-relaunch-mediation?traffic_source=rss
+   Category: geopolitics
+
+13. How could US-Iran conflict end? Three experts give their views
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-10. Germany's far-right poised for power in state election
+14. Germany's far-right AfD party is poised for power in a state election
    Source: NPR — World
    Link: https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election
    Category: geopolitics
 
-11. Argentina’s Milei threatens sanctions as he refocuses on Falklands
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss
-   Category: geopolitics
-
-12. Russia intensifies attacks on Ukraine's capital
+15. Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high
    Source: NPR — World
-   Link: https://www.npr.org/2026/09/04/nx-s1-5955596/russia-intensifies-attacks-on-ukraines-capital
+   Link: https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro
    Category: geopolitics
 
-13. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-14. Iran war: Why US midterms could be a pivotal moment
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss
-   Category: geopolitics
-
-15. 100 influencers invited to US Open spark debate on 'tennis etiquette'
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-16. Governments keep trying to calm global markets. Why that should worry investors.
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/governments-keep-trying-to-calm-global-markets-why-that-should-worry-investors-e7f93d62?mod=mw_rss_topstories
+16. 2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html
    Category: markets
 
-17. Potential midterm-election chaos can roil markets. Here’s one trader’s play.
+17. Here are our top 10 things to watch in the stock market Friday
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/04/here-are-our-top-10-things-to-watch-in-the-stock-market-friday.html
+   Category: markets
+
+18. Potential midterm-election chaos could roil markets. Here’s one trader’s play.
    Source: MarketWatch — Top Stories
    Link: https://www.marketwatch.com/story/potential-midterm-election-chaos-can-roil-markets-heres-one-traders-play-73a02966?mod=mw_rss_topstories
    Category: markets
 
-18. Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html
-   Category: markets
-
-19. Volkswagen jumps 6% on plans to cut 50,000 jobs amid tariffs, China competition
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html
-   Category: markets
-
-20. THC drinks could soon be harder to find as Congress delays hemp ban again
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html
-   Category: markets
-
-21. Apple possessed the ultimate stock-market superpower under Tim Cook. Can its new CEO step up?
+19. Is the stock market open on Labor Day? What about bond trading? Will the post office deliver mail?
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/apple-possessed-the-ultimate-stock-market-superpower-under-tim-cook-can-its-new-ceo-step-up-4e2a4d5a?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories
    Category: markets
 
-22. ‘I didn’t know what I didn’t know’: I thought I’d have to depend on Social Security. Then I taught myself how to invest.
+20. Bitcoin heads for third winning week in a row as macro pressures mount
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html
+   Category: markets
+
+21. These stocks in the red-hot healthcare sector have gotten too crowded to own
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/these-stocks-in-the-red-hot-healthcare-sector-have-gotten-too-crowded-to-own-b4b2e0bc?mod=mw_rss_topstories
+   Category: markets
+
+22. Six reasons that the risk of a stock-market selloff is rising. Here’s what investors should be doing.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/six-reasons-that-the-risk-of-a-stock-market-selloff-is-rising-heres-what-investors-should-be-doing-4c3d84ec?mod=mw_rss_topstories
+   Category: markets
+
+23. Lululemon stock plunges 20% on disappointing earnings and outlook
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html
+   Category: markets
+
+24. ‘I didn’t know what I didn’t know’: I thought I’d have to depend on Social Security. Then I taught myself how to invest.
    Source: MarketWatch — Top Stories
    Link: https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories
    Category: markets
 
-23. The wealth of the world's billionaires reached $15.1 trillion last year, per a new report
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html
-   Category: markets
+25. Stanford scientists discover a seafood that can reverse signs of aging
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260902234518.htm
+   Category: science technology
 
-24. Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html
-   Category: markets
+26. MIT turns bacteria into living transistors
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901070526.htm
+   Category: science technology
 
-25. A Trio of Tropical Cyclones in the Pacific
+27. Extreme drought now covers 44% of Puerto Rico
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260902234457.htm
+   Category: science technology
+
+28. A longer exhale may push your brain toward bolder decisions
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260904000320.htm
+   Category: science technology
+
+29. Dark matter detector finds a strange signal scientists can’t yet explain
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260904000313.htm
+   Category: science technology
+
+30. Scientists reveal the hidden instructions that build the human brain
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260904000308.htm
+   Category: science technology
+
+31. A Trio of Tropical Cyclones in the Pacific
    Source: NASA — Recently Published
    Link: https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific
    Category: science technology
 
-26. NASA to Cover Progress 96 Spacecraft Launch, Docking
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking
-   Category: science technology
-
-27. Igniting Roman’s Journey
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/image-article/igniting-romans-journey
-   Category: science technology
-
-28. Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog
-   Source: NASA — Recently Published
-   Link: https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog
-   Category: science technology
-
-29. NASA’s Hubble Spies Superbubble Scene
-   Source: NASA — Recently Published
-   Link: https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene
-   Category: science technology
-
-30. NASA scientists discover a giant 10-sided pattern on Saturn
+32. New injectable treatment helps the brain rebuild after stroke
    Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/09/260903064229.htm
+   Link: https://www.sciencedaily.com/releases/2026/09/260902234512.htm
    Category: science technology
 
-31. NASA Revamps Challenge Linking Community College Studies to Aerospace Careers
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers
-   Category: science technology
-
-32. Ancient “living fossils” may reveal how complex life began
+33. Scientists discover a bizarre “devil flower” hidden in Thailand
    Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/09/260902234514.htm
-   Category: science technology
-
-33. Scientists just overturned a century-old physics assumption
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/09/260901010659.htm
+   Link: https://www.sciencedaily.com/releases/2026/09/260903064217.htm
    Category: science technology
 
 Production note:
