@@ -1,0 +1,171 @@
+Jeff Daily Briefing — 2026-09-04
+
+Sources used for this episode:
+
+1. NeoMME: an efficient Multimodal-native and Multilingual Encoder
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/Hcompany/neomme
+   Category: ai computing
+
+2. Training a coding model to paint watercolours with TRL and OpenEnv
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/train-to-paint-with-code
+   Category: ai computing
+
+3. From MIT to IBM, expediting AI and quantum deployment
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902
+   Category: ai computing
+
+4. Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/grpo-with-trl-ifstruct
+   Category: ai computing
+
+5. Give Your Coding Agents a Memory You Own
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/funes
+   Category: ai computing
+
+6. UK support for Falkland Islands 'unwavering', No 10 says
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. US diesel prices hit an all-time-high
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. How could US-Iran conflict end? Three experts give their views
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Germany's far-right poised for power in state election
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election
+   Category: geopolitics
+
+11. Argentina’s Milei threatens sanctions as he refocuses on Falklands
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss
+   Category: geopolitics
+
+12. Russia intensifies attacks on Ukraine's capital
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/04/nx-s1-5955596/russia-intensifies-attacks-on-ukraines-capital
+   Category: geopolitics
+
+13. 'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+14. Iran war: Why US midterms could be a pivotal moment
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss
+   Category: geopolitics
+
+15. 100 influencers invited to US Open spark debate on 'tennis etiquette'
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+16. Governments keep trying to calm global markets. Why that should worry investors.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/governments-keep-trying-to-calm-global-markets-why-that-should-worry-investors-e7f93d62?mod=mw_rss_topstories
+   Category: markets
+
+17. Potential midterm-election chaos can roil markets. Here’s one trader’s play.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/potential-midterm-election-chaos-can-roil-markets-heres-one-traders-play-73a02966?mod=mw_rss_topstories
+   Category: markets
+
+18. Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html
+   Category: markets
+
+19. Volkswagen jumps 6% on plans to cut 50,000 jobs amid tariffs, China competition
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html
+   Category: markets
+
+20. THC drinks could soon be harder to find as Congress delays hemp ban again
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html
+   Category: markets
+
+21. Apple possessed the ultimate stock-market superpower under Tim Cook. Can its new CEO step up?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/apple-possessed-the-ultimate-stock-market-superpower-under-tim-cook-can-its-new-ceo-step-up-4e2a4d5a?mod=mw_rss_topstories
+   Category: markets
+
+22. ‘I didn’t know what I didn’t know’: I thought I’d have to depend on Social Security. Then I taught myself how to invest.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories
+   Category: markets
+
+23. The wealth of the world's billionaires reached $15.1 trillion last year, per a new report
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html
+   Category: markets
+
+24. Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html
+   Category: markets
+
+25. A Trio of Tropical Cyclones in the Pacific
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/a-trio-of-tropical-cyclones-in-the-pacific
+   Category: science technology
+
+26. NASA to Cover Progress 96 Spacecraft Launch, Docking
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-to-cover-progress-96-spacecraft-launch-docking
+   Category: science technology
+
+27. Igniting Roman’s Journey
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/igniting-romans-journey
+   Category: science technology
+
+28. Curiosity Blog, Sols 4988-4994: More New Tricks for an Old Dog
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/blog/curiosity-blog-sols-4988-4994-more-new-tricks-for-an-old-dog
+   Category: science technology
+
+29. NASA’s Hubble Spies Superbubble Scene
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/missions/hubble/nasas-hubble-spies-superbubble-scene
+   Category: science technology
+
+30. NASA scientists discover a giant 10-sided pattern on Saturn
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260903064229.htm
+   Category: science technology
+
+31. NASA Revamps Challenge Linking Community College Studies to Aerospace Careers
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers
+   Category: science technology
+
+32. Ancient “living fossils” may reveal how complex life began
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260902234514.htm
+   Category: science technology
+
+33. Scientists just overturned a century-old physics assumption
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260901010659.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
