@@ -1,0 +1,151 @@
+Jeff Daily Briefing — 2026-09-09
+
+Sources used for this episode:
+
+1. Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
+   Category: ai computing
+
+2. Russia and Ukraine exchange strikes as two killed at Moldova border
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+3. Germany's Merz attacks AfD in stormy debate after far-right election win
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+4. US to ban imports of some Canadian alcohol, dairy goods and motorbikes
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Colombia's new president loosens gun control rules
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian
+   Category: geopolitics
+
+7. White House pulls Tetris-style 'Build The Wall' game after copyright concern
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Oil hits $100 a barrel for first time since July after US and Houthi strikes
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. N Korea has built two-storey uranium enrichment facility, says watchdog
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Family of killed teen call for death penalty in D4vd trial
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. How has Israel hit back against sanctions by the UK, others?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/9/how-has-israel-hit-back-against-sanctions-by-the-uk-others?traffic_source=rss
+   Category: geopolitics
+
+12. Bessent says, ‘I am the house now.’ What that means for the yen — and U.S. stocks.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/bessent-says-i-am-the-house-now-what-it-means-for-the-yen-and-u-s-stocks-9ef63bc3?mod=mw_rss_topstories
+   Category: markets
+
+13. Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now'
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/09/bessent-bond-plan-details-to-be-revealed-as-treasury-secretary-warns-fx-traders-hes-the-house-now.html
+   Category: markets
+
+14. Jim Cramer's top 10 things to watch in the stock market Wednesday
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html
+   Category: markets
+
+15. Brent crude tops $100 for first time since July as fighting escalates in Persian Gulf
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html
+   Category: markets
+
+16. Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories
+   Category: markets
+
+17. Global oil prices rise above $100 a barrel for the first time since July as Middle East conflict escalates
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories
+   Category: markets
+
+18. Why UBS is telling investors to forget Europe’s ‘tired caricature’ and buy its stocks
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/why-ubs-is-telling-investors-to-forget-europes-tired-caricature-and-buy-its-stocks-9787b780?mod=mw_rss_topstories
+   Category: markets
+
+19. Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/meta-stock-jumps-as-new-personal-ai-agent-muse-addresses-a-major-investor-concern-5ad0a373?mod=mw_rss_topstories
+   Category: markets
+
+20. Trump's oil investments have gained millions during Iran war as his accounts keep trading
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html
+   Category: markets
+
+21. NASA Names Two Artemis II Astronauts to Emeritus Program
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program
+   Category: science technology
+
+22. Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars
+   Category: science technology
+
+23. Scientists find a bone-building switch that could fight osteoporosis
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260909005305.htm
+   Category: science technology
+
+24. Ozempic and Wegovy linked to nearly 40% fewer asthma attacks
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260909005155.htm
+   Category: science technology
+
+25. Have we found alien life? Hundreds of scientists weigh in
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260909005212.htm
+   Category: science technology
+
+26. Devil’s Arrows: Ancient builders hauled 55,000-pound stones 11 miles for Britain’s tallest stone row
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260909005152.htm
+   Category: science technology
+
+27. Interstellar comet 3I/ATLAS is bursting with methanol
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260909005217.htm
+   Category: science technology
+
+28. Anak Krakatau Rumbles Again
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/anak-krakatau-rumbles-again
+   Category: science technology
+
+29. “Parachute science” is failing the tropics, home to more than 80% of insect species
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260909005145.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
