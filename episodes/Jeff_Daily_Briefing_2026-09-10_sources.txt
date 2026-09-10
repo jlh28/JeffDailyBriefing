@@ -22,29 +22,29 @@ Sources used for this episode:
    Link: https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-5. At least 20 dead after fire on cargo ship in eastern China, state media report
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-6. Trump says every adult American will get $5,000 if Republicans win midterms
+5. Trump says every adult American will get $5,000 if Republicans win midterms
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-7. Watch: Is Trump's $5,000 election pledge legal?
+6. Twenty-five dead after fire on cargo ship in eastern China
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Royal family rift after popular TV news presenter chosen to succeed Ugandan king
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Watch: Is Trump's $5,000 election pledge legal?
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-8. Uganda pulling out of Prince Harry's Invictus Games, says military chief
+9. Uganda pulling out of Prince Harry's Invictus Games, says military chief
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-9. Royal family rift after popular TV news presenter chosen to succeed Ugandan king
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
 10. UN peacekeepers give NPR a rare look behind Israeli lines
@@ -67,49 +67,49 @@ Sources used for this episode:
    Link: https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-14. History shows the bar to disrupt AI is surprisingly high, says Bank of America
+14. Wholesale inflation stirred up by Iran war and high oil prices. What does it mean for the Fed?
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/wholesale-inflation-stirred-up-again-by-iran-conflict-and-higher-oil-prices-3f497534?mod=mw_rss_topstories
    Category: markets
 
-15. The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next.
+15. Markets see a near 50-50 chance the European Central Bank will hike again in October
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/markets-see-a-near-50-50-chance-the-european-central-bank-will-hike-again-in-october-38a87c27?mod=mw_rss_topstories
    Category: markets
 
-16. Investors are missing the good news right in front of them, this Wall Street strategist argues
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories
+16. European Central Bank hikes interest rates to 2.5% as policymakers see risk of higher inflation, weaker growth
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html
    Category: markets
 
-17. Treasury yields move higher as investors await key wholesale inflation data
+17. 10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears
    Source: CNBC — Top News
    Link: https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html
    Category: markets
 
-18. Macy's posts strong results, raises guidance as turnaround begins to take hold
+18. U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html
+   Category: markets
+
+19. Wealthy investors seek oil and gas assets, but bargains are scarce
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html
+   Category: markets
+
+20. Nasdaq invests $100 million in Kraken parent, eyeing 2027 launch of 'tokenized' stock trading
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html
+   Category: markets
+
+21. Investors are missing the good news right in front of them, this Wall Street strategist argues
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories
+   Category: markets
+
+22. Macy's posts strong results, raises guidance as turnaround begins to take hold
    Source: CNBC — Top News
    Link: https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html
-   Category: markets
-
-19. Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories
-   Category: markets
-
-20. 'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html
-   Category: markets
-
-21. With the copper price surfing all-time highs, here’s what one CEO thinks about the sector long term
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/with-the-copper-price-surfing-all-time-highs-heres-what-one-ceo-thinks-about-the-sector-long-term-0213d051?mod=mw_rss_topstories
-   Category: markets
-
-22. Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html
    Category: markets
 
 23. APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula
@@ -132,29 +132,29 @@ Sources used for this episode:
    Link: https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract
    Category: science technology
 
-27. Artemis II Crew at NASA Marshall
+27. AI researchers reckon with the $1.5 million ‘academia tax’
+   Source: Nature — Technology
+   Link: https://www.nature.com/articles/d41586-026-02026-1
+   Category: science technology
+
+28. Artemis II Crew at NASA Marshall
    Source: NASA — Recently Published
    Link: https://www.nasa.gov/image-article/artemis-ii-crew-at-nasa-marshall
    Category: science technology
 
-28. How 2 US, European Satellites Are Studying Hurricanes During El Niño
+29. How 2 US, European Satellites Are Studying Hurricanes During El Niño
    Source: NASA — Recently Published
    Link: https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino
    Category: science technology
 
-29. NASA Names Two Artemis II Astronauts to Emeritus Program
+30. NASA Names Two Artemis II Astronauts to Emeritus Program
    Source: NASA — Recently Published
    Link: https://www.nasa.gov/news-release/nasa-names-two-artemis-ii-astronauts-to-emeritus-program
    Category: science technology
 
-30. Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
+31. Curiosity Blog, Sols 4995-5001: 5,000 (Martian) Days on Mars
    Source: NASA — Recently Published
    Link: https://science.nasa.gov/blog/curiosity-blog-sols-4995-5001-5000-martian-days-on-mars
-   Category: science technology
-
-31. Scientists find a bone-building switch that could fight osteoporosis
-   Source: ScienceDaily — Top Science
-   Link: https://www.sciencedaily.com/releases/2026/09/260909005305.htm
    Category: science technology
 
 Production note:
