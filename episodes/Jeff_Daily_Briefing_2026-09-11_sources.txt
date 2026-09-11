@@ -2,154 +2,159 @@ Jeff Daily Briefing — 2026-09-11
 
 Sources used for this episode:
 
-1. MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines
+1. Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911
+   Category: ai computing
+
+2. MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines
    Source: MIT News — Artificial Intelligence
    Link: https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909
    Category: ai computing
 
-2. Rebuilding AUTOMATIC1111 with Gradio Workflow
+3. Rebuilding AUTOMATIC1111 with Gradio Workflow
    Source: Hugging Face — Blog
    Link: https://huggingface.co/blog/gradio-workflow-1111
    Category: ai computing
 
-3. Buddhist monk arrested in suspected $3m embezzlement scandal
+4. Israel says it has destroyed major underground Hezbollah base
    Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss
+   Link: https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-4. Anthropic blocks possible attempt to use AI to make biological weapons
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-5. The U.S.-Canada trade war is creating a headache for auto-parts makers
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain
-   Category: geopolitics
-
-6. Six Nigerians accused of romance scams to be extradited to the US
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-7. Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-8. Five dead and dozens injured in coach crash in Swiss Alps
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-9. Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-10. Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-11. ‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss
-   Category: geopolitics
-
-12. Princess Diana's 'revenge dress' goes up for auction
+5. Princess Diana's 'revenge dress' goes up for auction
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-13. Treasury yields steady as traders await consumer inflation data amid oil price pressure
+6. Buddhist monk arrested in suspected $3m embezzlement scandal
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Anthropic blocks possible attempt to use AI to make biological weapons
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. The dystopian legal architecture of the ‘war on terror’ must be dismantled
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/opinions/2026/9/11/the-dystopian-legal-architecture-of-the-war-on-terror-must-be-dismantled?traffic_source=rss
+   Category: geopolitics
+
+9. The U.S.-Canada trade war is creating a headache for auto-parts makers
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/11/nx-s1-5961530/canada-trade-war-auto-parts-supply-chain
+   Category: geopolitics
+
+10. Six Nigerians accused of romance scams to be extradited to the US
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Five dead and dozens injured in coach crash in Swiss Alps
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+14. Jim Cramer's top 10 things to watch in the stock market Friday
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html
+   Link: https://www.cnbc.com/2026/09/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html
    Category: markets
 
-14. The oil shock is testing private credit borrowers already burdened by high debt costs
+15. Inflation persisted in August, potentially locking in a Fed interest rate hike
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/11/oil-private-credit-refinancing.html
+   Link: https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html
    Category: markets
 
-15. Never mind the bond yields, Bank of America shows where the real threat to the economy lies
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/never-mind-the-bond-yields-bank-of-america-shows-where-the-real-threat-to-the-economy-lies-1e6cbeaa?mod=mw_rss_topstories
+16. Leopold Aschenbrenner's Situational Awareness is active in options market, sources say
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html
    Category: markets
 
-16. Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy
+17. Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy
    Source: CNBC — Top News
    Link: https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html
    Category: markets
 
-17. The four reasons stocks are about to embark on a ‘face-ripper rally’
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories
-   Category: markets
-
-18. 25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access
+18. Analysis: Hot CPI puts Kevin Warsh’s Fed credibility on the line before rate decision
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html
+   Link: https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html
    Category: markets
 
-19. Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point
+19. Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point
    Source: CNBC — Top News
    Link: https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html
    Category: markets
 
-20. U.S. oil price dips below $100 while diesel passes $6, marking fresh record
+20. The four reasons stocks could embark on a ‘face-ripper rally’ as soon as this morning
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/u-s-oil-price-dips-below-100-while-diesel-passes-6-marking-fresh-record-a3b6e6fb?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories
    Category: markets
 
-21. U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html
+21. Never mind the bond yields, Bank of America shows where the real threat to the economy lies
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/never-mind-the-bond-yields-bank-of-america-shows-where-the-real-threat-to-the-economy-lies-1e6cbeaa?mod=mw_rss_topstories
    Category: markets
 
-22. APOD: 2026 September 11 – M83: The Southern Pinwheel
+22. The future of retirement? Work until you die.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories
+   Category: markets
+
+23. Wasps are disappearing this summer, and scientists are worried
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260911003901.htm
+   Category: science technology
+
+24. APOD: 2026 September 11 – M83: The Southern Pinwheel
    Source: NASA — Recently Published
    Link: https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel
    Category: science technology
 
-23. NASA Answers President’s Call to Establish United States Space Academy
+25. Physicists just found a tiny glitch in time itself
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260910225251.htm
+   Category: science technology
+
+26. Monterrey Amid Mountains
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains
+   Category: science technology
+
+27. NASA Answers President’s Call to Establish United States Space Academy
    Source: NASA — Recently Published
    Link: https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy
    Category: science technology
 
-24. NASA Invites Media to Djibouti Artemis Accords Signing Ceremony
+28. NASA Invites Media to Djibouti Artemis Accords Signing Ceremony
    Source: NASA — Recently Published
    Link: https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony
    Category: science technology
 
-25. NASA, NFL Team Up to Showcase Space, Aeronautics Innovation
+29. Scientists discover the human heart can regrow muscle after a heart attack
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260909231754.htm
+   Category: science technology
+
+30. NASA, NFL Team Up to Showcase Space, Aeronautics Innovation
    Source: NASA — Recently Published
    Link: https://www.nasa.gov/news-release/nasa-nfl-team-up-to-showcase-space-aeronautics-innovation
    Category: science technology
 
-26. NASA’s Life-Saving Technology Where Cell Signals Can’t Go
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-life-saving-technology-where-cell-signals-cant-go
-   Category: science technology
-
-27. Dust and Water in Sagittarius A*
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a
-   Category: science technology
-
-28. NASA’s Chandra Unveils Mysterious X-Ray Objects
-   Source: NASA — Recently Published
-   Link: https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects
-   Category: science technology
-
-29. NASA Adds Relativity Space’s Terran R to Launch Services Contract
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract
-   Category: science technology
-
-30. APOD: 2026 September 10 – LDN 1295: The Giraffe Nebula
-   Source: NASA — Recently Published
-   Link: https://science.nasa.gov/image-article/apod-2026-september-10-ldn-1295-the-giraffe-nebula
+31. UCLA scientists turn cord blood into powerful cancer-fighting T cells
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260909231723.htm
    Category: science technology
 
 Production note:
