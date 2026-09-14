@@ -12,99 +12,99 @@ Sources used for this episode:
    Link: https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914
    Category: ai computing
 
-3. Hyrox apologises for allowing race to continue after athlete soils herself
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-4. Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through
-   Source: NPR — World
-   Link: https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train
-   Category: geopolitics
-
-5. Swedish left-wing bloc narrowly ahead with election too close to call
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-6. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
+3. Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-7. Beijing hits back at Anthropic CEO's call to curb China's AI development
+4. China criticises idea it is in 'malicious competition' over AI
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Zambians warned not to eat dead wildlife after anthrax kills dozens of animals
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks
+   Category: geopolitics
+
+7. ‘Attacks will be fully autonomous’: Russia, Ukraine race towards AI warfare
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare?traffic_source=rss
+   Category: geopolitics
+
+8. Thousands demand end to violence in Mexican cartel hotspot
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. Hyrox apologises for allowing race to continue after athlete soils herself
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Beijing hits back at Anthropic CEO's call to curb China's AI development
    Source: NPR — World
    Link: https://www.npr.org/2026/09/14/nx-s1-5968456/china-hits-back-ai-development
    Category: geopolitics
 
-8. Malaysian boy acquitted for murder of schoolgirl on grounds of insanity
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-9. Morning news brief
+11. Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through
    Source: NPR — World
-   Link: https://www.npr.org/2026/09/14/nx-s1-5965810/morning-news-brief
+   Link: https://www.npr.org/2026/09/14/g-s1-143140/russian-drone-ukrainian-train
    Category: geopolitics
 
-10. Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation
+12. Swedish left-wing bloc narrowly ahead with election too close to call
    Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss
+   Link: https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-11. Bali police investigate after Australian man and children found dead in home
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
+13. Here’s how to prepare your portfolio for the Fed’s next interest-rate moves
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories
+   Category: markets
 
-12. Strait of Hormuz talks postponed due to Yemen events, says Iran
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss
-   Category: geopolitics
-
-13. Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.
+14. Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.
    Source: MarketWatch — Top Stories
    Link: https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories
    Category: markets
 
-14. AI has carried the stock market. An industry pause could pull the rug out, warns this Wall Street giant.
+15. AI has been carrying the stock market. An industry pause could pull the rug out, warns this Wall Street giant.
    Source: MarketWatch — Top Stories
    Link: https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories
    Category: markets
 
-15. Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html
-   Category: markets
-
-16. Here’s the big caveat to the report that Anthropic is profitable for a second straight quarter
+16. Oil over $100 has JPMorgan strategists warning stock-market investors against missing out on a sudden turnaround
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories
    Category: markets
 
-17. OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'
+17. Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories
+   Category: markets
+
+18. What Amodei's AI slowdown could mean for Anthropic's imminent IPO
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html
+   Link: https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html
    Category: markets
 
-18. Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz
+19. Novo drops ‘Nordisk’ in corporate refresh to take on Lilly in the weight-loss wars
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories
+   Category: markets
+
+20. Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz
    Source: CNBC — Top News
    Link: https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html
    Category: markets
 
-19. Clarity Act faces make-or-break Senate vote on Tuesday as crypto industry pushes for bill
+21. AI stocks tumble on safety warnings. How to proceed — including 2 names on our shopping list
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html
-   Category: markets
-
-20. Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html
-   Category: markets
-
-21. ‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories
+   Link: https://www.cnbc.com/2026/09/14/ai-stocks-tumble-on-safety-warnings-how-to-proceed-including-2-names-on-our-shopping-list.html
    Category: markets
 
 22. APOD: 2026 September 14 – Where Your Elements Came From
