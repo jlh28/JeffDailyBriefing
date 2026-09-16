@@ -1,0 +1,156 @@
+Jeff Daily Briefing — 2026-09-16
+
+Sources used for this episode:
+
+1. Measure by measure, studying society accurately
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916
+   Category: ai computing
+
+2. Your Agent Aced the Task. Will It Do It Again?
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/ibm-research/altk-evolve-consistency
+   Category: ai computing
+
+3. China willing to ‘safeguard Iran’s legitimate rights’, official says
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss
+   Category: geopolitics
+
+4. Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. EU chief backs plan for Canada to become 'associate member'
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. US limits visas for South African officials over alleged anti-white discrimination
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Philippines' Duterte seen in person at International Criminal Court for first time
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Legendary Nigerian actor Olu Jacobs dies aged 84
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. Russia seizes Ukrainian POWs, then it demands favors from their relatives
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives
+   Category: geopolitics
+
+10. South African president vows justice as more women's bodies found near Johannesburg
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. Kosovo's ex-President Thaci convicted of war crimes, sentenced to 25 years in prison
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/16/g-s1-143560/kosovo-former-president-war-crimes
+   Category: geopolitics
+
+12. Colombia and Brazil deadliest countries for environmental activists, report says
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. Statement on Proposals to Rescind Rule 14a-8, Amend Rule 14a-4, and Modernize Proxy Solicitation
+   Source: SEC — Speeches and Statements
+   Link: https://www.sec.gov/newsroom/speeches-statements/atkins-statement-proposals-rescind-rule-14a-8-amend-rule-14a-4-modernize-proxy-solicitation-091626
+   Category: markets
+
+14. What history says about longer-term bond yields after an initial Fed hike
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories
+   Category: markets
+
+15. Statement on the Proposed Rescission of Rule 14a-8 and Proposed Proxy Solicitation Modernization
+   Source: SEC — Speeches and Statements
+   Link: https://www.sec.gov/newsroom/speeches-statements/uyeda-statement-proposed-rescission-rule-14a-8-proposed-proxy-solicitation-modernization-091626
+   Category: markets
+
+16. Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html
+   Category: markets
+
+17. The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories
+   Category: markets
+
+18. Why a strategist who previously thought inflation was contained now sees potential for aggressive Fed rate hikes
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/why-a-strategist-who-previously-thought-inflation-was-contained-now-sees-potential-for-aggressive-fed-rate-hikes-33ecaf04?mod=mw_rss_topstories
+   Category: markets
+
+19. Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html
+   Category: markets
+
+20. J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html
+   Category: markets
+
+21. Traders are betting Trump may soon turn on Fed chair Kevin Warsh as interest-rate hikes loom
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/traders-are-betting-trump-may-soon-turn-on-fed-chair-kevin-warsh-as-interest-rate-hikes-loom-b0dfff2a?mod=mw_rss_topstories
+   Category: markets
+
+22. NASA Ames Stars of the Month: September 2026
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026
+   Category: science technology
+
+23. APOD: 2026 September 16 – Webb’s View of M64
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64
+   Category: science technology
+
+24. NASA Invites Media to International Observe the Moon Night
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-invites-media-to-international-observe-the-moon-night
+   Category: science technology
+
+25. Artemis III Crew Visits NASA Kennedy’s Vehicle Assembly Building
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/artemis-iii-crew-visits-nasa-kennedys-vehicle-assembly-building
+   Category: science technology
+
+26. Celebrate International Observe the Moon Night with NASA
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa
+   Category: science technology
+
+27. Travel
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/centers-and-facilities/nssc/travel
+   Category: science technology
+
+28. Scientists discover a major brain shift between ages 50 and 75
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260914102441.htm
+   Category: science technology
+
+29. Supermassive black hole winds are 100 times more powerful than scientists thought
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260914102429.htm
+   Category: science technology
+
+30. The shape behind the Einstein problem just revealed strange new physics
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260914102432.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
