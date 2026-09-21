@@ -1,0 +1,156 @@
+Jeff Daily Briefing — 2026-09-21
+
+Sources used for this episode:
+
+1. Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
+   Category: ai computing
+
+2. tokenizers v1: encode, decode and scaling, measured
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/tokenizers-v1
+   Category: ai computing
+
+3. World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting
+   Category: geopolitics
+
+4. Merz vows to keep coalition together for Germany's 'democratic future'
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. What to know as world leaders converge at the United Nations this week
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly
+   Category: geopolitics
+
+6. How Russia's parliamentary election might affect the war in Ukraine
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine
+   Category: geopolitics
+
+7. Google hit with €403m fine by Irish data watchdog over GDPR violations
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. CNN, MS NOW and Politico to file lawsuit against Trump's White House ban
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. Xhaka under investigation over Covid-19 certificate
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Three held over woman's murder as South Africa police investigate eight other body finds
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. US strikes on alleged drug boats could be crimes against humanity, says UN
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Seven Ethiopian rebel groups form new alliance
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html
+   Category: markets
+
+14. Record diesel prices are exposing pain points in the stock market and economy
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories
+   Category: markets
+
+15. U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html
+   Category: markets
+
+16. A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories
+   Category: markets
+
+17. Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories
+   Category: markets
+
+18. Nissan eyes increasing U.S. production as new Rogue hybrid launches
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html
+   Category: markets
+
+19. U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html
+   Category: markets
+
+20. Corporate earnings are growing much faster than the economy. What Goldman strategists say about bubble concerns.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories
+   Category: markets
+
+21. Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html
+   Category: markets
+
+22. Widely Attended Gatherings (WAGs) Determinations
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags
+   Category: science technology
+
+23. Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival
+   Category: science technology
+
+24. What kills Schrödinger’s cat? Gravity may not be the answer
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260920222350.htm
+   Category: science technology
+
+25. NASA just powered up Roman’s massive 300-megapixel camera
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260921081058.htm
+   Category: science technology
+
+26. Stanford scientists discover the human brain may actually be two separate organs
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260920222352.htm
+   Category: science technology
+
+27. Black holes of every size follow the same surprising rule
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260920222358.htm
+   Category: science technology
+
+28. A new process turns plastic waste into gasoline and diesel fuel
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260920222405.htm
+   Category: science technology
+
+29. Scientists create a needle-thin brain implant that can do three jobs at once
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260920222416.htm
+   Category: science technology
+
+30. Chronic stress may be quietly reshaping your heart
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260920222354.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
