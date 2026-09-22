@@ -1,0 +1,166 @@
+Jeff Daily Briefing — 2026-09-22
+
+Sources used for this episode:
+
+1. Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/omlx
+   Category: ai computing
+
+2. Transformers now runs llama.cpp quants
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/transformers-llama-cpp-quants
+   Category: ai computing
+
+3. Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
+   Category: ai computing
+
+4. tokenizers v1: encode, decode and scaling, measured
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/tokenizers-v1
+   Category: ai computing
+
+5. Sri Lanka court convicts 15 men over deadly Easter Sunday bombings
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. How Trump's media ban sparked a broadcaster boycott
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Developing El Niño becomes strongest on record weeks before expected peak
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. Iran delegation to present narrative of resilience, diplomacy at UNGA
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss
+   Category: geopolitics
+
+12. Arteta agrees new deal with Premier League champions Arsenal
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. British man missing after diving into Lake Como to rescue teenager
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+14. Doctor in court to face Rwanda genocide charges in UK
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+15. September surge or October offload? Jobs experts weigh in on this fall’s hiring trends
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/22/september-surge-october-offload-jobs-experts-on-fall-2026-hiring-trends.html
+   Category: markets
+
+16. Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html
+   Category: markets
+
+17. Oil could top $150 a barrel if supplies tighten further, Bank of America warns
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories
+   Category: markets
+
+18. Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html
+   Category: markets
+
+19. Santoli: The S&P 500 is within striking distance of record as bull relies on familiar leadership
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/22/santoli-the-sp-500-is-within-striking-distance-of-record-as-bull-relies-on-familiar-leadership.html
+   Category: markets
+
+20. Oil prices fall after report Saudi Arabia aims to restart critical pipeline this week
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html
+   Category: markets
+
+21. Princeton’s 15-year run as the nation’s top-ranked university is over. MIT is now No. 1.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories
+   Category: markets
+
+22. Novo defends diversification push as CEO eyes deals beyond obesity
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/22/novo-nordisk-ceo-interview-weight-loss-drugs-strategy.html
+   Category: markets
+
+23. How this market-beating fund is constantly shifting to keep up with the AI trade
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories
+   Category: markets
+
+24. NASA Astronaut to Answer Questions from New Hampshire Students
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/learning-resources/nasa-astronaut-to-answer-questions-from-new-hampshire-students
+   Category: science technology
+
+25. For the first time, scientists watch sound jump between quantum states
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260921081054.htm
+   Category: science technology
+
+26. Humpback whale mother may have mourned her dead calf for days
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260921081050.htm
+   Category: science technology
+
+27. This new concrete is stronger and pulls CO2 from the air
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260921081105.htm
+   Category: science technology
+
+28. An Epic View of the Seasons
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons
+   Category: science technology
+
+29. A strange circle on satellite maps turned out to be a 390-million-year-old impact crater
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260921081101.htm
+   Category: science technology
+
+30. The end of humanity? What would happen if the Yellowstone supervolcano erupted now
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260922005655.htm
+   Category: science technology
+
+31. Brain scans reveal a possible cause of long COVID fatigue and brain fog
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260920222412.htm
+   Category: science technology
+
+32. NASA Welcomes Albania as Newest Artemis Accords Signatory
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
