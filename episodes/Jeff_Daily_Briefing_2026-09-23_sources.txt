@@ -1,0 +1,171 @@
+Jeff Daily Briefing — 2026-09-23
+
+Sources used for this episode:
+
+1. **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/nvidia/nemotron-diarization
+   Category: ai computing
+
+2. Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922
+   Category: ai computing
+
+3. How UK AISI and EvalEval Are Making Benchmark Results Reproducible
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/evaleval-aisi
+   Category: ai computing
+
+4. Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/omlx
+   Category: ai computing
+
+5. Transformers now runs llama.cpp quants
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/transformers-llama-cpp-quants
+   Category: ai computing
+
+6. Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. South Sudan's president dissolves government ahead of country's first elections
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. OpenAI gives cyber defence tools to Ukraine
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. Eleven killed in mass shooting at house in South Africa
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. Dramatic eviction of woman aged 87 highlights Spain's housing shortage
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+14. Dolly Parton's manager accuses her nephew of 'threats and intimidation'
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+15. Ukraine's Zelenskyy proposes energy truce with Russia during meeting with Trump
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/23/nx-s1-5978127/ukraines-zelenskyy-proposes-energy-truce-with-russia-during-meeting-with-trump
+   Category: geopolitics
+
+16. HSBC addresses the concerns that are gripping the stock market — and dismisses most of them
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/hsbc-addresses-the-concerns-that-are-gripping-the-stock-market-and-dismisses-most-of-them-f9b34a8d?mod=mw_rss_topstories
+   Category: markets
+
+17. These stocks are the ‘four horsemen of AI’ — and they’re not the ones you’d think
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/these-stocks-are-the-four-horsemen-of-ai-and-theyre-not-the-ones-youd-think-bd4072ae?mod=mw_rss_topstories
+   Category: markets
+
+18. Meta's Muse reignites AI disruption fears. Traders are targeting this brokerage stock as next casualty
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/23/metas-muse-ai-causes-schwab-selloff.html
+   Category: markets
+
+19. Trump-Xi meeting: Why China's self-sufficiency changes the calculus
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html
+   Category: markets
+
+20. Typical job search advice isn't working in today's market. Experts' new rules for landing a role right now
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/23/new-rules-of-finding-a-job-right-now.html
+   Category: markets
+
+21. Our top 10 things to watch in the stock market Wednesday
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/23/our-top-10-things-to-watch-in-the-stock-market-wednesday.html
+   Category: markets
+
+22. IonQ shares rally after company says it made a major quantum computing breakthrough
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html
+   Category: markets
+
+23. Activist Toms Capital urges Devon Energy in letter to explore alternatives, including a sale
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/23/activist-toms-capital-urges-devon-energy-in-letter-to-explore-alternatives-including-a-sale.html
+   Category: markets
+
+24. Nearly half of adults under 30 live with their parents. The financial fallout could last for decades.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/nearly-half-of-adults-under-30-live-with-their-parents-the-financial-fallout-could-last-for-decades-5d9f059d?mod=mw_rss_topstories
+   Category: markets
+
+25. APOD: 2026 September 23 – A New Lunar Crater: McGetchin
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater
+   Category: science technology
+
+26. Boom Year for Desert Blooms
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/boom-year-for-desert-blooms
+   Category: science technology
+
+27. The LHC just ruled out another hiding place for quantum black holes
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260922005649.htm
+   Category: science technology
+
+28. Curiosity Blog, Sols 5010-5015: Checking out the Bands
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/blog/curiosity-blog-sols-5010-5015-checking-out-the-bands
+   Category: science technology
+
+29. Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications
+   Category: science technology
+
+30. One of America’s largest reservoirs just hit a record low
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260922005701.htm
+   Category: science technology
+
+31. NASA’s Chandra Finds Unusual Objects in Pinwheel Galaxy
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/nasas-chandra-finds-unusual-objects-in-pinwheel-galaxy
+   Category: science technology
+
+32. NASA-Funded Research Finds Complex Life Defying Record Heat
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/science-research/planetary-science/nasa-funded-research-finds-complex-life-defying-record-heat
+   Category: science technology
+
+33. The Solar System chose fire over ice from the very beginning
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260921081052.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
