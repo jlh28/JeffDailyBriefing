@@ -1,0 +1,161 @@
+Jeff Daily Briefing — 2026-09-24
+
+Sources used for this episode:
+
+1. The promise and peril of using visual AI to study cities
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
+   Category: ai computing
+
+2. MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923
+   Category: ai computing
+
+3. How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
+   Category: ai computing
+
+4. Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Ethiopia's army says it has repelled attacks in first comment on fresh fighting
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. Trump rolls out red carpet for Xi as high-stakes summit begins
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins
+   Category: geopolitics
+
+7. Israel's prime minister to give an address at the U.N.
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/24/nx-s1-5978964/israels-prime-minister-to-give-an-address-at-the-u-n
+   Category: geopolitics
+
+8. Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss
+   Category: geopolitics
+
+9. Judge temporarily overturns Trump's White House media ban
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Has China received US F-35 parts by diverting an Australian shipment?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss
+   Category: geopolitics
+
+11. Why India's Election Commission is in the eye of a storm - again
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Trump's Board of Peace unveils $2.45bn Gaza recovery plan
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump
+   Category: geopolitics
+
+14. 30-year Treasury yield hits highest level since 2004 as bond market rout continues
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html
+   Category: markets
+
+15. Family offices double down on stocks and private equity even as inflation spurs worry, Citi survey finds
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/24/citi-family-offices-inflation-investing.html
+   Category: markets
+
+16. With the stock market ‘priced for perfection,’ the S&P 500 is in danger of a 20% slump next year
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories
+   Category: markets
+
+17. Three reasons to stick with stocks despite rising yields, according to Barclays
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/three-reasons-to-stick-with-stocks-despite-rising-yields-according-to-barclays-9b8ea2c3?mod=mw_rss_topstories
+   Category: markets
+
+18. Social Security checks are projected to be cut by $540 a month in just six years
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories
+   Category: markets
+
+19. Meta's standoff with Amazon over Muse could be a sign of things to come
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html
+   Category: markets
+
+20. Judge lifts Trump ban of media outlets from White House — access still denied for some
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html
+   Category: markets
+
+21. Oracle’s stock is falling as investors fear a data-center setback
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories
+   Category: markets
+
+22. Oracle shares drop on report it sent 'force majeure' notice about data center project
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html
+   Category: markets
+
+23. NASA to Study Human Health, Performance During Crew-13 Mission
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission
+   Category: science technology
+
+24. Distant time crystals can somehow fall into the same rhythm
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260923035934.htm
+   Category: science technology
+
+25. When what you see doesn’t make sense, your brain does something remarkable
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260923035929.htm
+   Category: science technology
+
+26. Scientists thought they knew how this 70-year-old leukemia drug worked
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260923035932.htm
+   Category: science technology
+
+27. ADHD and autism diagnoses have surged. A massive study may help explain why
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260924020353.htm
+   Category: science technology
+
+28. These massive stars could explain Webb’s strangest galaxies
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260923035922.htm
+   Category: science technology
+
+29. Scientists find two tiny new snails with shells that close like doors
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260923035936.htm
+   Category: science technology
+
+30. “We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260923035951.htm
+   Category: science technology
+
+31. APOD: 2026 September 24 – The Ghosts of Five Supernovas
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
