@@ -1,0 +1,161 @@
+Jeff Daily Briefing — 2026-09-25
+
+Sources used for this episode:
+
+1. Estimating suicide risk from text
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924
+   Category: ai computing
+
+2. Accelerating vision-language models with LFM2.5-VL-DSpark
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
+   Category: ai computing
+
+3. The promise and peril of using visual AI to study cities
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924
+   Category: ai computing
+
+4. Netanyahu defends Israeli military action as delegates walk out before UN speech
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Internet restricted after fighting breaks out in Ethiopia's Tigray region
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. Pope warns against 'losing humanity' to AI machines
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. US seeking to revive Russia-Ukraine ceasefire talks
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks?traffic_source=rss
+   Category: geopolitics
+
+8. Trump and Xi exchange warm words at state dinner but little progress on key issues
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. Former U.S. ambassador to China on Xi Jinping's visit to Washington
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/25/nx-s1-5979917/former-u-s-ambassador-to-china-on-xi-jinpings-visit-to-washington
+   Category: geopolitics
+
+10. Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly
+   Category: geopolitics
+
+11. Jay-Z rape accuser says her allegation was false
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates
+   Category: geopolitics
+
+13. Xi got Trump's red carpet welcome - but not everything he wanted
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+14. The stock market could be due for a nasty selloff, judging by these two signals
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories
+   Category: markets
+
+15. The options market is sending a contrarian signal about oil prices
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories
+   Category: markets
+
+16. ‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and what it expects now.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories
+   Category: markets
+
+17. Why the alternative to the ‘clear and present’ danger from bond yields is this AI-fueled market that has quietly outperformed
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories
+   Category: markets
+
+18. Top 10 things to watch in the stock market Friday
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/25/top-10-things-to-watch-in-the-stock-market-friday.html
+   Category: markets
+
+19. From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories
+   Category: markets
+
+20. Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html
+   Category: markets
+
+21. I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories
+   Category: markets
+
+22. Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html
+   Category: markets
+
+23. Scientists discovered two bizarre new sea spiders that are “nightmare fuel”
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260925005412.htm
+   Category: science technology
+
+24. CERN has begun disconnecting the Large Hadron Collider
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260925005430.htm
+   Category: science technology
+
+25. This “rare” autism-linked genetic disorder may be far more common than scientists thought
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260924020405.htm
+   Category: science technology
+
+26. Earth is tearing apart beneath the Pacific Northwest
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260924231343.htm
+   Category: science technology
+
+27. APOD: 2026 September 25 – Globular Star Cluster Omega Centauri
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri
+   Category: science technology
+
+28. NASA Shares SpaceX Crew-14 Assignments for Space Station Mission
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission
+   Category: science technology
+
+29. Explosive Intensification for Hurricane Polo
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo
+   Category: science technology
+
+30. Scientists gave worms magnetic bacteria. They lived 43% longer
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260924020357.htm
+   Category: science technology
+
+31. NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
