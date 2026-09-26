@@ -12,99 +12,99 @@ Sources used for this episode:
    Link: https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924
    Category: ai computing
 
-3. Republic of Ireland news conference delayed before controversial Israel game
+3. Huge crowds greet Pope in Paris for open-air Mass
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+4. Republic of Ireland confirm rescheduled news conference before controversial Israel game
    Source: BBC News — World
    Link: https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-4. Israel bans Arab parties from election: Who they are, why it matters
-   Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss
-   Category: geopolitics
-
-5. At least two dead after explosion destroys building close to Acropolis in Athens
+5. British national among six dead in building explosion close to Acropolis in Athens
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-6. Pope warns a 'paradise of machines' could undermine humanity as he opens France trip
+6. The intelligence war is turning against the Houthis
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis?traffic_source=rss
+   Category: geopolitics
+
+7. Israel bans Arab parties from election: Who they are, why it matters
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss
+   Category: geopolitics
+
+8. Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji
+   Category: geopolitics
+
+9. Pope warns a 'paradise of machines' could undermine humanity as he opens France trip
    Source: NPR — World
    Link: https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity
    Category: geopolitics
 
-7. Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?
+10. Girl disabled by Israeli strike urges wheelchairs be let into Gaza
    Source: Al Jazeera — All News
-   Link: https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss
+   Link: https://www.aljazeera.com/video/newsfeed/2026/9/26/girl-disabled-by-israeli-strike-urges-wheelchairs-be-let-into-gaza?traffic_source=rss
    Category: geopolitics
 
-8. Pezeshkian says Iran ‘no longer trusts talks with Washington’
+11. Turkiye calls for UN Security Council veto to end: Could it happen?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/features/2026/9/26/turkiye-calls-for-un-security-council-veto-to-end-could-it-happen?traffic_source=rss
+   Category: geopolitics
+
+12. Pezeshkian says Iran ‘no longer trusts talks with Washington’
    Source: Al Jazeera — All News
    Link: https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss
    Category: geopolitics
 
-9. Brazil's Lula bans online gambling ahead of presidential election
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-10. Bangkok roads submerged as flood disaster declared
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-11. Iran offers US deal to reopen Strait of Hormuz in seven days
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-12. White House bars CNN from travelling with Trump on Air Force One
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-13. Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs
+13. Berkshire adds to nearly doubled stake in slumping homebuilder
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html
+   Link: https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html
    Category: markets
 
-14. Meta turned Muse into a viral hit. Now comes the hard part.
+14. The 10-year Treasury yield is at its highest in nearly two decades. How we got here
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html
+   Category: markets
+
+15. Why bond-market volatility hasn’t spilled over into stocks
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/why-bond-market-volatility-hasnt-spilled-over-into-stocks-f156b24a?mod=mw_rss_topstories
    Category: markets
 
-15. Federal Reserve Board announces approval of application by Peoples Bancorp Inc.
-   Source: Federal Reserve — Press Releases
-   Link: https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm
-   Category: markets
-
-16. Chinese AI models surge in global popularity — and Washington is worried
+16. The blue-collar AI job market is booming. Will data center backlash make it go bust?
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html
+   Link: https://www.cnbc.com/2026/09/26/blue-collar-jobs-ai-data-center-backlash.html
    Category: markets
 
-17. A ‘death cross’ is coming for the dollar. Why Trump will be happy.
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories
-   Category: markets
-
-18. Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms
+17. Many homeowners have a big insurance coverage gap — and don't even know it
    Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html
+   Link: https://www.cnbc.com/2026/09/26/homeowners-insurance-coverage-gap.html
    Category: markets
 
-19. I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?
+18. I’m 77, pay rent and live off Social Security, but I help homeless people. Why are so many people going hungry?
    Source: MarketWatch — Top Stories
    Link: https://www.marketwatch.com/story/im-77-pay-rent-and-live-off-social-security-but-i-help-homeless-people-why-are-so-many-people-going-hungry-5818465f?mod=mw_rss_topstories
    Category: markets
 
-20. What we want to see next week from one of Jim Cramer's 6 stocks to buy
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/25/what-we-want-to-see-next-week-from-one-of-jim-cramers-6-stocks-to-buy.html
+19. How to keep profiting from AI while shielding your portfolio against the risk of a slowdown
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories
    Category: markets
 
-21. My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories
+20. 27-year-old started a run club to meet new people—now his NYC side hustle brings in $640K a year
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/26/nyc-run-club-side-hustle.html
+   Category: markets
+
+21. Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/26/whats-behind-the-fall-of-diamond-prices-to-record-lows.html
    Category: markets
 
 22. APOD: 2026 September 26 – Mirrored Meteor and Milky Way
