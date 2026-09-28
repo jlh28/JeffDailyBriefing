@@ -1,0 +1,156 @@
+Jeff Daily Briefing — 2026-09-28
+
+Sources used for this episode:
+
+1. Holo4: powering generalist computer-use agents
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/Hcompany/holo4
+   Category: ai computing
+
+2. New formulation helps RNA vaccines withstand high temperatures
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
+   Category: ai computing
+
+3. British police investigate if arrests near U.S. air base foiled an Iran-linked attack
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack
+   Category: geopolitics
+
+4. Trump-Xi summit: What wasn't said might matter the most
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+5. Israeli football fans chant military slogans after defeat to Ireland
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss
+   Category: geopolitics
+
+6. Palestinians denounce Israeli minister Ben-Gvir’s threats against prisoner
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/28/palestinians-denounce-israeli-minister-ben-gvirs-threats-against-prisoner?traffic_source=rss
+   Category: geopolitics
+
+7. Two mass shootings in South Africa leave 28 dead
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss
+   Category: geopolitics
+
+9. Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss
+   Category: geopolitics
+
+10. Police probe ‘terror’ incident near RAF base used in Iran war: What we know
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss
+   Category: geopolitics
+
+11. Iran’s children return to school under the shadow of war
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss
+   Category: geopolitics
+
+12. Eviction of 87-year-old sparks protests in Madrid over housing crisis
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis
+   Category: geopolitics
+
+13. The history of this market’s bad-breadth signal points to risks ahead
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories
+   Category: markets
+
+14. Treasury yields edge higher amid pressure on global government bonds
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html
+   Category: markets
+
+15. A pullback is brewing, say these strategists who have examined every drawdown since 1956
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/a-pullback-is-brewing-say-these-strategists-who-have-examined-every-drawdown-since-1956-69e39d5f?mod=mw_rss_topstories
+   Category: markets
+
+16. How Muse and other AI agents could spark a bank run, according to an economist
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/how-muse-and-other-ai-agents-could-spark-a-bank-run-according-to-an-economist-c4730049?mod=mw_rss_topstories
+   Category: markets
+
+17. Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html
+   Category: markets
+
+18. Gold and silver prices fall sharply as higher bond yields weigh on metals
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html
+   Category: markets
+
+19. Nvidia makes a statement with historic $150 billion buyback announcement
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories
+   Category: markets
+
+20. ‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories
+   Category: markets
+
+21. U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html
+   Category: markets
+
+22. Reliable Robots: Meet Johnson’s Dexterous Robotics Team
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/centers-and-facilities/johnson/reliable-robots-meet-johnsons-dexterous-robotics-team
+   Category: science technology
+
+23. Uncovering the Valleys Hidden Below Greenland’s Ice
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice
+   Category: science technology
+
+24. Glucosamine, a popular joint supplement, linked to faster Alzheimer’s progression
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260927033754.htm
+   Category: science technology
+
+25. One CRISPR treatment cut “bad” cholesterol in half for a full year
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260925005434.htm
+   Category: science technology
+
+26. Why rheumatoid arthritis pain may persist even when inflammation is under control
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260925093208.htm
+   Category: science technology
+
+27. 1.7-billion-year-old fossils reveal a crucial clue to the rise of complex life
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260925005447.htm
+   Category: science technology
+
+28. New soil test could reveal how soil microbes help feed plants
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260925005441.htm
+   Category: science technology
+
+29. APOD: 2026 September 27 – Andromeda Before and After Photoshop
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop
+   Category: science technology
+
+30. These medieval graves looked like family burials. DNA told a different story
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260925005444.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
