@@ -1,0 +1,166 @@
+Jeff Daily Briefing — 2026-09-29
+
+Sources used for this episode:
+
+1. The effects of an “algorithmic monoculture” depend on the details
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929
+   Category: ai computing
+
+2. Who we become when we talk to machines
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
+   Category: ai computing
+
+3. Holo4: powering generalist computer-use agents
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/Hcompany/holo4
+   Category: ai computing
+
+4. New formulation helps RNA vaccines withstand high temperatures
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928
+   Category: ai computing
+
+5. As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence
+   Category: geopolitics
+
+6. Evicted Spanish pensioner can move back home, lawyer says
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Hurricane Polo makes landfall on Mexico's Pacific coast
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. OpenAI scraps rollout of new model over safety concerns
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. US ban on Canadian alcohol and dairy comes into effect as trade war drags on
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. In FIFA-UEFA tussle, European body accused of ‘misinformation campaign’
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/sports/2026/9/29/in-fifa-uefa-tussle-european-body-accused-of-misinformation-campaign?traffic_source=rss
+   Category: geopolitics
+
+11. Burkina Faso's junta leader opens major gold refinery to keep mining profits at home
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c61mvdlk0327o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Palestine weekly: Israeli politicians vie to look toughest before election
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/features/2026/9/29/palestine-weekly-israeli-politicians-vie-to-look-toughest-before-election?traffic_source=rss
+   Category: geopolitics
+
+13. Thousands of drivers strike in the Philippines over rising fuel prices
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss
+   Category: geopolitics
+
+14. Lebanese are watching Israel’s upcoming election, but few expect change
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/29/lebanese-are-watching-israels-upcoming-election-but-few-expect-change?traffic_source=rss
+   Category: geopolitics
+
+15. Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories
+   Category: markets
+
+16. Novo Nordisk strikes second licensing deal since frosty capital-markets day
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/novo-nordisk-strikes-second-licensing-deal-since-frosty-capital-markets-day-cc0db878?mod=mw_rss_topstories
+   Category: markets
+
+17. Meta launches Muse for Small Business as Zuckerberg pushes beyond consumer AI market
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/29/meta-launches-muse-for-small-business-zuckerberg-pushes-enterprise-ai.html
+   Category: markets
+
+18. Nvidia's record buyback shows chipmaker's stock is too cheap for CEO Huang to resist
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/29/nvidia-buyback-shows-chipmaker-stock-is-too-cheap-for-huang-to-resist.html
+   Category: markets
+
+19. Smart ring maker Oura postpones IPO due to market 'uncertainty'
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html
+   Category: markets
+
+20. Shell backs $23 billion LNG Canada expansion in boost to Carney's ‘energy superpower’ push
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/29/shell-canada-lng-carney-oil-gas-energy.html
+   Category: markets
+
+21. Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio/.html
+   Category: markets
+
+22. Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories
+   Category: markets
+
+23. America's Canadian import restrictions come into force. Here are the products barred from entry
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/29/canada-import-ban-trade-war.html
+   Category: markets
+
+24. The ice blasting from Saturn's moon Enceladus is stranger than scientists realized
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260929053528.htm
+   Category: science technology
+
+25. APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula
+   Category: science technology
+
+26. Fire Cloud with a Pileus on Top
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top
+   Category: science technology
+
+27. NASA’s Crew-13 could go from Florida to the ISS in under 9 hours
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260928100534.htm
+   Category: science technology
+
+28. Mars Has Its Charmes
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/blog/mars-has-its-charmes
+   Category: science technology
+
+29. NASA, Boeing Share Update on Commercial Starliner Development Plans
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans
+   Category: science technology
+
+30. This suitcase-sized spacecraft could hear the universe before stars existed
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260927225034.htm
+   Category: science technology
+
+31. October’s Night Sky Notes: Spooky Stargazing
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing
+   Category: science technology
+
+32. Earth’s day isn’t exactly 24 hours. The reason may lie deep inside the planet
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260928100540.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
