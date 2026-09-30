@@ -1,0 +1,166 @@
+Jeff Daily Briefing — 2026-09-30
+
+Sources used for this episode:
+
+1. NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/nvidia/kumo-tabular
+   Category: ai computing
+
+2. Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source
+   Category: ai computing
+
+3. The effects of an “algorithmic monoculture” depend on the details
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929
+   Category: ai computing
+
+4. Who we become when we talk to machines
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
+   Category: ai computing
+
+5. U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai
+   Category: geopolitics
+
+6. U.S. military withdraws from Iraq two decades after invasion
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq
+   Category: geopolitics
+
+7. Africa's richest man launches Kenya oil refinery despite land protests
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+8. Crackdown on South Africa's unsafe streets ordered by president to keep women safe
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. The October 7 warnings threatening Netanyahu’s Israeli election campaign
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss
+   Category: geopolitics
+
+10. Singapore launches matchmaking service for government workers
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. Girl has multiple surgeries to control infections after strike in Gaza
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+13. 'He will never walk free': Indian judge's letter promises child sex abuse survivor
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+14. Somali pirates killed oil tanker crew before rescue, official tells BBC
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+15. He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories
+   Category: markets
+
+16. One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories
+   Category: markets
+
+17. ‘I’m afraid of human stupidity.’ Why this top economist prefers U.S. tech and gold over bonds.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories
+   Category: markets
+
+18. Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html
+   Category: markets
+
+19. Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories
+   Category: markets
+
+20. Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories
+   Category: markets
+
+21. Citi tells investors it’s time to sell Moderna after 600%-plus stock gains
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories
+   Category: markets
+
+22. Trump's meeting with tech leaders leaves AI safety more unsettled than ever
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html
+   Category: markets
+
+23. Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html
+   Category: markets
+
+24. APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries
+   Category: science technology
+
+25. Powerful Storms Continue to Prowl the Pacific
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific
+   Category: science technology
+
+26. NASA Opens 2027 Human Lander Challenge for Lunar Communications
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications
+   Category: science technology
+
+27. NASA Awards Orbital Safety Analysis Support Services Contract
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract
+   Category: science technology
+
+28. NASA Features Exploration, Science at International Space Conference
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference
+   Category: science technology
+
+29. NASA Sets Crew-13 Launch, Docking Coverage
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage
+   Category: science technology
+
+30. NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract
+   Category: science technology
+
+31. NASA Opens Applications for Second Season of ORBIT Student Challenge
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/learning-resources/research-program-for-students
+   Category: science technology
+
+32. Crew-13 Rocket and Spacecraft at Launch Pad
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
