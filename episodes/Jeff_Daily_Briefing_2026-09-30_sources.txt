@@ -22,144 +22,144 @@ Sources used for this episode:
    Link: https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929
    Category: ai computing
 
-5. U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy
+5. Russia launches largest attack on Ukraine energy infrastructure since spring
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. Dozens hurt and hundreds arrested in wave of French school protests
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy
    Source: NPR — World
    Link: https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai
    Category: geopolitics
 
-6. U.S. military withdraws from Iraq two decades after invasion
+8. Botswana condemned for slaughtering elephants for independence celebrations
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. U.S. military withdraws from Iraq two decades after invasion
    Source: NPR — World
    Link: https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq
    Category: geopolitics
 
-7. Africa's richest man launches Kenya oil refinery despite land protests
+10. Last UK and US troops leave Iraq as anti-Islamic State mission ends
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. Africa's richest man launches Kenya oil refinery despite land protests
    Source: BBC News — World
    Link: https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss
    Category: geopolitics
 
-8. Crackdown on South Africa's unsafe streets ordered by president to keep women safe
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss
+12. A flight from Dubai to Tel Aviv diverts to Saudi Arabia after making distress call
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel
    Category: geopolitics
 
-9. The October 7 warnings threatening Netanyahu’s Israeli election campaign
+13. The October 7 warnings threatening Netanyahu’s Israeli election campaign
    Source: Al Jazeera — All News
    Link: https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss
    Category: geopolitics
 
-10. Singapore launches matchmaking service for government workers
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss
+14. Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening
+   Source: NPR — World
+   Link: https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis
    Category: geopolitics
 
-11. Girl has multiple surgeries to control infections after strike in Gaza
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-12. US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-13. 'He will never walk free': Indian judge's letter promises child sex abuse survivor
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-14. Somali pirates killed oil tanker crew before rescue, official tells BBC
-   Source: BBC News — World
-   Link: https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss
-   Category: geopolitics
-
-15. He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories
+15. Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements
+   Source: Federal Reserve — Press Releases
+   Link: https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm
    Category: markets
 
-16. One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.
+16. U.S. inflation rises, keeping pressure on Fed
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories
    Category: markets
 
-17. ‘I’m afraid of human stupidity.’ Why this top economist prefers U.S. tech and gold over bonds.
+17. Micron earnings hit Wall Street after the bell. Here's how options traders are positioned into the report
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html
+   Category: markets
+
+18. Private sector jobs rose by 90,000 in September, better than expected, ADP reports
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html
+   Category: markets
+
+19. 'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html
+   Category: markets
+
+20. Robinhood unveils weekend hours, AI agents to allow users to trade nonstop
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html
+   Category: markets
+
+21. Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html
+   Category: markets
+
+22. ‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds
    Source: MarketWatch — Top Stories
    Link: https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories
    Category: markets
 
-18. Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html
-   Category: markets
-
-19. Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.
+23. Americans get back to their spending ways. Economy might be speeding up again.
    Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories
+   Link: https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories
    Category: markets
 
-20. Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories
-   Category: markets
+24. Cannabis users were twice as likely to commit violence, review finds
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260930020255.htm
+   Category: science technology
 
-21. Citi tells investors it’s time to sell Moderna after 600%-plus stock gains
-   Source: MarketWatch — Top Stories
-   Link: https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories
-   Category: markets
+25. NASA's Perseverance Mars rover finds groundwater, lakes, and hot fluids in one place
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260928100537.htm
+   Category: science technology
 
-22. Trump's meeting with tech leaders leaves AI safety more unsettled than ever
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html
-   Category: markets
+26. Watch Live: NASA’s Crew-13 could make the fastest U.S. trip to the ISS ever
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260930020312.htm
+   Category: science technology
 
-23. Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet
-   Source: CNBC — Top News
-   Link: https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html
-   Category: markets
+27. A record-breaking X-ray flash may reveal the birth of a magnetar
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260930020252.htm
+   Category: science technology
 
-24. APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries
+28. Mulberry may reshape gut bacteria and influence metabolism
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260928100551.htm
+   Category: science technology
+
+29. Black hole jets may decide the fate of entire galaxies
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260928100527.htm
+   Category: science technology
+
+30. APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries
    Source: NASA — Recently Published
    Link: https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries
    Category: science technology
 
-25. Powerful Storms Continue to Prowl the Pacific
+31. Pompeii’s 2,000-year-old eruption just gave scientists a better clock for Earth’s past
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260928100531.htm
+   Category: science technology
+
+32. Powerful Storms Continue to Prowl the Pacific
    Source: NASA — Recently Published
    Link: https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific
-   Category: science technology
-
-26. NASA Opens 2027 Human Lander Challenge for Lunar Communications
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications
-   Category: science technology
-
-27. NASA Awards Orbital Safety Analysis Support Services Contract
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract
-   Category: science technology
-
-28. NASA Features Exploration, Science at International Space Conference
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference
-   Category: science technology
-
-29. NASA Sets Crew-13 Launch, Docking Coverage
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage
-   Category: science technology
-
-30. NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract
-   Category: science technology
-
-31. NASA Opens Applications for Second Season of ORBIT Student Challenge
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/learning-resources/research-program-for-students
-   Category: science technology
-
-32. Crew-13 Rocket and Spacecraft at Launch Pad
-   Source: NASA — Recently Published
-   Link: https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad
    Category: science technology
 
 Production note:
