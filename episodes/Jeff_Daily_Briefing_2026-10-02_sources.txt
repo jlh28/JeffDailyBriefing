@@ -1,0 +1,166 @@
+Jeff Daily Briefing — 2026-10-02
+
+Sources used for this episode:
+
+1. AutoSynthData: Generating Training Data for Enterprise Agents
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+   Category: ai computing
+
+2. 3 Questions: A new resource to empower young entrepreneurs
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002
+   Category: ai computing
+
+3. New tool lets users repair AI-generated 3D models, then fabricate them just the way they want
+   Source: MIT News — Artificial Intelligence
+   Link: https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001
+   Category: ai computing
+
+4. Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs
+   Source: Hugging Face — Blog
+   Link: https://huggingface.co/blog/allenai/olmocore3
+   Category: ai computing
+
+5. 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+6. Christa Pike in critical condition after surviving two lethal injections, lawyer says
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+7. Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia
+   Source: NPR — World
+   Link: https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments
+   Category: geopolitics
+
+8. Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+9. A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+10. Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+11. OpenAI fires workers for 'mishandling sensitive information'
+   Source: BBC News — World
+   Link: https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss
+   Category: geopolitics
+
+12. Cornell rape case gets special prosecutor. And, Renee Good's family sues the government
+   Source: NPR — World
+   Link: https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good
+   Category: geopolitics
+
+13. New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss
+   Category: geopolitics
+
+14. Just one in 10 Germans thinks Merz is up to the job after election wipeout
+   Source: Al Jazeera — All News
+   Link: https://www.aljazeera.com/news/2026/10/2/just-one-in-10-germans-thinks-merz-is-up-to-the-job-after-election-wipeout?traffic_source=rss
+   Category: geopolitics
+
+15. Another viral AI-doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories
+   Category: markets
+
+16. Three reasons why this Wall Street market-making powerhouse says investors should reload on stocks now
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories
+   Category: markets
+
+17. Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories
+   Category: markets
+
+18. The secret signs the bond sell-off might be ending
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html
+   Category: markets
+
+19. Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate
+   Source: MarketWatch — Top Stories
+   Link: https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories
+   Category: markets
+
+20. Nike shares plummet 10% after weak revenue outlook and layoff plans underway
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html
+   Category: markets
+
+21. How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html
+   Category: markets
+
+22. YouTube sports strategy targets more live rights -- but not necessarily events
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/10/02/youtube-sports-strategy-targets-more-live-rights-but-not-necessarily-events.html
+   Category: markets
+
+23. Oil prices fall over 3% on report of potential diesel, crude stock release; Brent back below $100
+   Source: CNBC — Top News
+   Link: https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html
+   Category: markets
+
+24. 10 Things: Movie Night
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/solar-system/10-things-movie-night
+   Category: science technology
+
+25. APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae
+   Category: science technology
+
+26. Rains Swamp the Gandak River
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river
+   Category: science technology
+
+27. NASA Awards Enterprise Logistics Support Services Agreements
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements
+   Category: science technology
+
+28. NASA’s SpaceX Crew-13 Launches
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches
+   Category: science technology
+
+29. NASA’s SpaceX Crew-13 Launches to International Space Station
+   Source: NASA — Recently Published
+   Link: https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station
+   Category: science technology
+
+30. What’s Up: October 2026 Skywatching Tips from NASA
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa
+   Category: science technology
+
+31. NASA’s Webb Provides Crash Course on Planet-Shattering Collisions
+   Source: NASA — Recently Published
+   Link: https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions
+   Category: science technology
+
+32. This giant stick insect fooled scientists for decades
+   Source: ScienceDaily — Top Science
+   Link: https://www.sciencedaily.com/releases/2026/09/260930020315.htm
+   Category: science technology
+
+Production note:
+The narration was generated from feed-provided headlines and summaries. The system is instructed not to invent missing facts and to distinguish analysis from confirmed reporting.
